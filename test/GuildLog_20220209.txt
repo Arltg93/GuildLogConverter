@@ -1,0 +1,462 @@
+[Mythic]  Berserker(Stufe 2) Angriffskraft ¡æ [ShapeYou]  EternaL
+< Der Basispunkt +2 >
+
+[Mythic]  Gismoe(Stufe 2) Angriffskraft ¡æ [Viciouz] Der Gildenmeister jazon
+< Der Basispunkt +2 >
+
+[Mythic]  Heresia(Stufe 2) Angriffskraft ¡æ [ShapeYou]  Vegeta
+< Der Basispunkt +2 >
+
+[ShapeYou]  Shuego(Stufe 2) Angriffskraft ¡æ [Mythic]  Aff3e
+< Der Basispunkt +2 >
+
+[Mythic]  Gismoe(Stufe 2) Angriffskraft ¡æ [ShapeYou] Verteidiger Luce
+< Der Basispunkt +2, Der Verteidigungsbonus +1 >
+
+[ShapeYou]  EternaL(Stufe 2) Angriffskraft ¡æ [Mythic] Verteidiger Heresia
+< Der Basispunkt +2, Der Verteidigungsbonus +1 >
+
+[Mythic]  Gismoe(Stufe 2) Angriffskraft ¡æ [ShapeYou]  EternaL
+< Der Basispunkt +2 >
+
+[Viciouz] Der Gildenmeister jazon(Stufe 2) Angriffskraft ¡æ [Mythic]  Gismoe
+< Der Basispunkt +2, Der Bonus mit Gildenmeister +1 >
+
+[Mythic]  Berserker(Stufe 2) Angriffskraft ¡æ [ShapeYou] Verteidiger Luce
+< Der Basispunkt +2, Der Verteidigungsbonus +1 >
+
+[Mythic]  Gismoe(Stufe 2) Angriffskraft ¡æ [ShapeYou]  Vegeta
+< Der Basispunkt +2 >
+
+[Mythic]  Gismoe(Stufe 2) Angriffskraft ¡æ [ShapeYou]  EternaL
+< Der Basispunkt +2 >
+
+[ShapeYou]  Luce(Stufe 2) Angriffskraft ¡æ [Mythic]  Gismoe
+< Der Basispunkt +2 >
+
+[Mythic]  Heresia(Stufe 2) Angriffskraft ¡æ [ShapeYou] Verteidiger Luce
+< Der Basispunkt +2, Der Verteidigungsbonus +1 >
+
+[Mythic]  Aff3e(Stufe 2) Angriffskraft ¡æ [ShapeYou]  EternaL
+< Der Basispunkt +2 >
+
+[Mythic]  Berserker(Stufe 2) Angriffskraft ¡æ [ShapeYou]  Shuego
+< Der Basispunkt +2 >
+
+[ShapeYou]  Luce(Stufe 2) Angriffskraft ¡æ [Mythic]  Gismoe
+< Der Basispunkt +2 >
+
+[Mythic]  Heresia(Stufe 2) Angriffskraft ¡æ [ShapeYou] Verteidiger Luce
+< Der Basispunkt +2, Der Verteidigungsbonus +1 >
+
+[Mythic]  Heresia(Stufe 2) Angriffskraft ¡æ [ShapeYou]  Vegeta
+< Der Basispunkt +2 >
+
+[ShapeYou]  Shuego(Stufe 2) Angriffskraft ¡æ [Mythic] Verteidiger Heresia
+< Der Basispunkt +2, Der Verteidigungsbonus +1 >
+
+[ShapeYou]  EternaL(Stufe 2) Angriffskraft ¡æ [Mythic]  Berserker
+< Der Basispunkt +2 >
+
+[Mythic]  Aff3e(Stufe 2) Angriffskraft ¡æ [Viciouz] Der Gildenmeister jazon
+< Der Basispunkt +2 >
+
+[Mythic]  Gismoe(Stufe 2) Angriffskraft ¡æ [Viciouz] Der Gildenmeister jazon
+< Der Basispunkt +2 >
+
+[Mythic]  Heresia(Stufe 2) Angriffskraft ¡æ [ShapeYou] Verteidiger Luce
+< Der Basispunkt +2, Der Verteidigungsbonus +1 >
+
+[Viciouz] Der Gildenmeister jazon(Stufe 2) Angriffskraft ¡æ [ShapeYou]  Vegeta
+< Der Basispunkt +2, Der Bonus mit Gildenmeister +1 >
+
+[Mythic]  Gismoe(Stufe 2) Angriffskraft ¡æ [ShapeYou] Verteidiger Luce
+< Der Basispunkt +2, Der Verteidigungsbonus +1 >
+
+[ShapeYou]  Shuego(Stufe 2) Angriffskraft ¡æ [Mythic]  Aff3e
+< Der Basispunkt +2 >
+
+[Mythic]  Berserker(Stufe 2) Angriffskraft ¡æ [ShapeYou]  Shuego
+< Der Basispunkt +2 >
+
+[ShapeYou]  Vegeta(Stufe 2) Angriffskraft ¡æ [Viciouz] Der Gildenmeister jazon
+< Der Basispunkt +2 >
+
+[Mythic]  Aff3e(Stufe 2) Angriffskraft ¡æ [ShapeYou]  Shuego
+< Der Basispunkt +2 >
+
+[Viciouz] Der Gildenmeister jazon(Stufe 2) Angriffskraft ¡æ [Mythic]  Aff3e
+< Der Basispunkt +2, Der Bonus mit Gildenmeister +1 >
+
+[Mythic]  Gismoe(Stufe 2) Angriffskraft ¡æ [ShapeYou]  Vegeta
+< Der Basispunkt +2 >
+
+[ShapeYou]  Shuego(Stufe 2) Angriffskraft ¡æ [Mythic]  Gismoe
+< Der Basispunkt +2 >
+
+[Mythic]  Aff3e(Stufe 2) Angriffskraft ¡æ [ShapeYou]  Vegeta
+< Der Basispunkt +2 >
+
+[ShapeYou]  Luce(Stufe 2) Angriffskraft ¡æ [Mythic]  Aff3e
+< Der Basispunkt +2 >
+
+[ShapeYou]  EternaL(Stufe 2) Angriffskraft ¡æ [Mythic]  Berserker
+< Der Basispunkt +2 >
+
+[Viciouz] Der Gildenmeister jazon(Stufe 2) Angriffskraft ¡æ [ShapeYou] Verteidiger Luce
+< Der Basispunkt +2, Der Bonus mit Gildenmeister +1, Der Verteidigungsbonus +1 >
+
+[Mythic]  Gismoe(Stufe 2) Angriffskraft ¡æ [ShapeYou] Verteidiger Luce
+< Der Basispunkt +2, Der Verteidigungsbonus +1 >
+
+[Mythic]  Gismoe(Stufe 2) Angriffskraft ¡æ [ShapeYou] Verteidiger Luce
+< Der Basispunkt +2, Der Verteidigungsbonus +1 >
+
+[Mythic]  Berserker(Stufe 2) Angriffskraft ¡æ [ShapeYou]  EternaL
+< Der Basispunkt +2 >
+
+[ShapeYou]  Vegeta(Stufe 2) Angriffskraft ¡æ [Mythic]  Gismoe
+< Der Basispunkt +2 >
+
+[Mythic]  Heresia(Stufe 2) Angriffskraft ¡æ [ShapeYou]  Shuego
+< Der Basispunkt +2 >
+
+[Viciouz] Der Gildenmeister jazon(Stufe 2) Angriffskraft ¡æ [Mythic]  Aff3e
+< Der Basispunkt +2, Der Bonus mit Gildenmeister +1 >
+
+[ShapeYou]  Vegeta(Stufe 2) Angriffskraft ¡æ [Mythic] Verteidiger Heresia
+< Der Basispunkt +2, Der Verteidigungsbonus +1 >
+
+[ShapeYou]  Luce(Stufe 2) Angriffskraft ¡æ [Mythic]  Aff3e
+< Der Basispunkt +2 >
+
+[Mythic]  Gismoe(Stufe 2) Angriffskraft ¡æ [ShapeYou] Verteidiger Luce
+< Der Basispunkt +2, Der Verteidigungsbonus +1 >
+
+[Viciouz] Der Gildenmeister jazon(Stufe 2) Angriffskraft ¡æ [ShapeYou]  Vegeta
+< Der Basispunkt +2, Der Bonus mit Gildenmeister +1 >
+
+[ShapeYou]  EternaL(Stufe 2) Angriffskraft ¡æ [Mythic]  Berserker
+< Der Basispunkt +2 >
+
+[ShapeYou]  Shuego(Stufe 2) Angriffskraft ¡æ [Mythic] Verteidiger Heresia
+< Der Basispunkt +2, Der Verteidigungsbonus +1 >
+
+[Mythic]  Gismoe(Stufe 2) Angriffskraft ¡æ [ShapeYou]  Shuego
+< Der Basispunkt +2 >
+
+[Viciouz] Der Gildenmeister jazon(Stufe 2) Angriffskraft ¡æ [ShapeYou]  Vegeta
+< Der Basispunkt +2, Der Bonus mit Gildenmeister +1 >
+
+[Mythic]  Heresia(Stufe 2) Angriffskraft ¡æ [Viciouz] Der Gildenmeister jazon
+< Der Basispunkt +2 >
+
+[Mythic]  Berserker(Stufe 2) Angriffskraft ¡æ [ShapeYou]  Shuego
+< Der Basispunkt +2 >
+
+[ShapeYou]  EternaL(Stufe 2) Angriffskraft ¡æ [Mythic]  Berserker
+< Der Basispunkt +2 >
+
+[Mythic]  Heresia(Stufe 2) Angriffskraft ¡æ [ShapeYou]  EternaL
+< Der Basispunkt +2 >
+
+[Mythic]  Gismoe(Stufe 2) Angriffskraft ¡æ [ShapeYou]  Vegeta
+< Der Basispunkt +2 >
+
+[Viciouz] Der Gildenmeister jazon(Stufe 2) Angriffskraft ¡æ [ShapeYou]  Shuego
+< Der Basispunkt +2, Der Bonus mit Gildenmeister +1 >
+
+[Mythic]  Gismoe(Stufe 2) Angriffskraft ¡æ [ShapeYou] Verteidiger Luce
+< Der Basispunkt +2, Der Verteidigungsbonus +1 >
+
+[ShapeYou]  Vegeta(Stufe 2) Angriffskraft ¡æ [Mythic]  Berserker
+< Der Basispunkt +2 >
+
+[ShapeYou]  Vegeta(Stufe 2) Angriffskraft ¡æ [Mythic] Verteidiger Heresia
+< Der Basispunkt +2, Der Verteidigungsbonus +1 >
+
+[ShapeYou]  Shuego(Stufe 2) Angriffskraft ¡æ [Mythic]  Aff3e
+< Der Basispunkt +2 >
+
+[Mythic]  Gismoe(Stufe 2) Angriffskraft ¡æ [ShapeYou]  Shuego
+< Der Basispunkt +2 >
+
+[Mythic]  Berserker(Stufe 2) Angriffskraft ¡æ [ShapeYou]  Vegeta
+< Der Basispunkt +2 >
+
+[ShapeYou]  Luce(Stufe 2) Angriffskraft ¡æ [Mythic]  Berserker
+< Der Basispunkt +2 >
+
+[Viciouz] Der Gildenmeister jazon(Stufe 2) Angriffskraft ¡æ [ShapeYou] Verteidiger Luce
+< Der Basispunkt +2, Der Bonus mit Gildenmeister +1, Der Verteidigungsbonus +1 >
+
+[Viciouz] Der Gildenmeister jazon(Stufe 2) Angriffskraft ¡æ [Mythic]  Berserker
+< Der Basispunkt +2, Der Bonus mit Gildenmeister +1 >
+
+[Mythic]  Berserker(Stufe 2) Angriffskraft ¡æ [Viciouz] Der Gildenmeister jazon
+< Der Basispunkt +2 >
+
+[ShapeYou]  Shuego(Stufe 2) Angriffskraft ¡æ [Mythic]  Berserker
+< Der Basispunkt +2 >
+
+[Mythic]  Aff3e(Stufe 2) Angriffskraft ¡æ [ShapeYou]  Shuego
+< Der Basispunkt +2 >
+
+[ShapeYou]  EternaL(Stufe 2) Angriffskraft ¡æ [Mythic]  Gismoe
+< Der Basispunkt +2 >
+
+[Mythic]  Heresia(Stufe 2) Angriffskraft ¡æ [ShapeYou]  EternaL
+< Der Basispunkt +2 >
+
+[Mythic]  Heresia(Stufe 2) Angriffskraft ¡æ [ShapeYou]  Vegeta
+< Der Basispunkt +2 >
+
+[Mythic]  Heresia(Stufe 2) Angriffskraft ¡æ [ShapeYou] Verteidiger Luce
+< Der Basispunkt +2, Der Verteidigungsbonus +1 >
+
+[Viciouz] Der Gildenmeister jazon(Stufe 2) Angriffskraft ¡æ [Mythic] Verteidiger Heresia
+< Der Basispunkt +2, Der Bonus mit Gildenmeister +1, Der Verteidigungsbonus +1 >
+
+[ShapeYou]  Shuego(Stufe 2) Angriffskraft ¡æ [Mythic]  Aff3e
+< Der Basispunkt +2 >
+
+[Mythic]  Berserker(Stufe 2) Angriffskraft ¡æ [ShapeYou]  Shuego
+< Der Basispunkt +2 >
+
+[Viciouz] Der Gildenmeister jazon(Stufe 2) Angriffskraft ¡æ [Mythic]  Berserker
+< Der Basispunkt +2, Der Bonus mit Gildenmeister +1 >
+
+[Mythic]  Heresia(Stufe 2) Angriffskraft ¡æ [ShapeYou] Verteidiger Luce
+< Der Basispunkt +2, Der Verteidigungsbonus +1 >
+
+[Mythic]  Gismoe(Stufe 2) Angriffskraft ¡æ [Viciouz] Der Gildenmeister jazon
+< Der Basispunkt +2 >
+
+[ShapeYou]  Vegeta(Stufe 2) Angriffskraft ¡æ [Mythic] Verteidiger Heresia
+< Der Basispunkt +2, Der Verteidigungsbonus +1 >
+
+[ShapeYou]  EternaL(Stufe 2) Angriffskraft ¡æ [Mythic]  Gismoe
+< Der Basispunkt +2 >
+
+[Viciouz] Der Gildenmeister jazon(Stufe 2) Angriffskraft ¡æ [ShapeYou]  EternaL
+< Der Basispunkt +2, Der Bonus mit Gildenmeister +1 >
+
+[Mythic]  Berserker(Stufe 2) Angriffskraft ¡æ [Viciouz] Der Gildenmeister jazon
+< Der Basispunkt +2 >
+
+[Mythic]  Heresia(Stufe 2) Angriffskraft ¡æ [ShapeYou]  Shuego
+< Der Basispunkt +2 >
+
+[ShapeYou]  Vegeta(Stufe 2) Angriffskraft ¡æ [Mythic]  Gismoe
+< Der Basispunkt +2 >
+
+[Mythic]  Aff3e(Stufe 2) Angriffskraft ¡æ [ShapeYou] Verteidiger Luce
+< Der Basispunkt +2, Der Verteidigungsbonus +1 >
+
+[Mythic]  Aff3e(Stufe 2) Angriffskraft ¡æ [ShapeYou]  Vegeta
+< Der Basispunkt +2 >
+
+[Mythic]  Heresia(Stufe 2) Angriffskraft ¡æ [ShapeYou] Verteidiger Luce
+< Der Basispunkt +2, Der Verteidigungsbonus +1 >
+
+[Mythic]  Berserker(Stufe 2) Angriffskraft ¡æ [Viciouz] Der Gildenmeister jazon
+< Der Basispunkt +2 >
+
+[ShapeYou]  Luce(Stufe 2) Angriffskraft ¡æ [Mythic] Verteidiger Heresia
+< Der Basispunkt +2, Der Verteidigungsbonus +1 >
+
+[Mythic]  Gismoe(Stufe 2) Angriffskraft ¡æ [ShapeYou]  Vegeta
+< Der Basispunkt +2 >
+
+[Viciouz] Der Gildenmeister jazon(Stufe 2) Angriffskraft ¡æ [ShapeYou]  Shuego
+< Der Basispunkt +2, Der Bonus mit Gildenmeister +1 >
+
+[ShapeYou]  EternaL(Stufe 2) Angriffskraft ¡æ [Mythic]  Berserker
+< Der Basispunkt +2 >
+
+[Mythic]  Aff3e(Stufe 2) Angriffskraft ¡æ [ShapeYou]  EternaL
+< Der Basispunkt +2 >
+
+[Mythic]  Gismoe(Stufe 2) Angriffskraft ¡æ [ShapeYou] Verteidiger Luce
+< Der Basispunkt +2, Der Verteidigungsbonus +1 >
+
+[ShapeYou]  Shuego(Stufe 2) Angriffskraft ¡æ [Mythic]  Aff3e
+< Der Basispunkt +2 >
+
+[Mythic]  Gismoe(Stufe 2) Angriffskraft ¡æ [ShapeYou]  Vegeta
+< Der Basispunkt +2 >
+
+[Viciouz] Der Gildenmeister jazon(Stufe 2) Angriffskraft ¡æ [Mythic] Verteidiger Heresia
+< Der Basispunkt +2, Der Bonus mit Gildenmeister +1, Der Verteidigungsbonus +1 >
+
+[ShapeYou]  Luce(Stufe 2) Angriffskraft ¡æ [Mythic]  Berserker
+< Der Basispunkt +2 >
+
+[Mythic]  Gismoe(Stufe 2) Angriffskraft ¡æ [ShapeYou] Verteidiger Luce
+< Der Basispunkt +2, Der Verteidigungsbonus +1 >
+
+[ShapeYou]  EternaL(Stufe 2) Angriffskraft ¡æ [Viciouz] Der Gildenmeister jazon
+< Der Basispunkt +2 >
+
+[Mythic]  Gismoe(Stufe 2) Angriffskraft ¡æ [ShapeYou]  Vegeta
+< Der Basispunkt +2 >
+
+[Mythic]  Heresia(Stufe 2) Angriffskraft ¡æ [Viciouz] Der Gildenmeister jazon
+< Der Basispunkt +2 >
+
+[Mythic]  Berserker(Stufe 2) Angriffskraft ¡æ [ShapeYou]  Shuego
+< Der Basispunkt +2 >
+
+[Viciouz] Der Gildenmeister jazon(Stufe 2) Angriffskraft ¡æ [Mythic]  Aff3e
+< Der Basispunkt +2, Der Bonus mit Gildenmeister +1 >
+
+[Mythic]  Gismoe(Stufe 2) Angriffskraft ¡æ [ShapeYou]  Vegeta
+< Der Basispunkt +2 >
+
+[ShapeYou]  Shuego(Stufe 2) Angriffskraft ¡æ [Mythic]  Berserker
+< Der Basispunkt +2 >
+
+[Mythic]  Gismoe(Stufe 2) Angriffskraft ¡æ [ShapeYou]  Shuego
+< Der Basispunkt +2 >
+
+[Mythic]  Aff3e(Stufe 2) Angriffskraft ¡æ [ShapeYou]  EternaL
+< Der Basispunkt +2 >
+
+[ShapeYou]  Vegeta(Stufe 2) Angriffskraft ¡æ [Viciouz] Der Gildenmeister jazon
+< Der Basispunkt +2 >
+
+[Mythic]  Gismoe(Stufe 2) Angriffskraft ¡æ [ShapeYou] Verteidiger Luce
+< Der Basispunkt +2, Der Verteidigungsbonus +1 >
+
+[ShapeYou]  Shuego(Stufe 2) Angriffskraft ¡æ [Mythic]  Gismoe
+< Der Basispunkt +2 >
+
+[ShapeYou]  Luce(Stufe 2) Angriffskraft ¡æ [Mythic]  Aff3e
+< Der Basispunkt +2, Der Wiederbelebungsbonus +1 >
+
+[Mythic]  Berserker(Stufe 2) Angriffskraft ¡æ [Viciouz] Der Gildenmeister jazon
+< Der Basispunkt +2 >
+
+[ShapeYou]  EternaL(Stufe 2) Angriffskraft ¡æ [Mythic] Verteidiger Heresia
+< Der Basispunkt +2, Der Verteidigungsbonus +1 >
+
+[ShapeYou]  Luce(Stufe 2) Angriffskraft ¡æ [Mythic]  Gismoe
+< Der Basispunkt +2, Der Wiederbelebungsbonus +1 >
+
+[Viciouz] Der Gildenmeister jazon(Stufe 2) Angriffskraft ¡æ [ShapeYou] Verteidiger Luce
+< Der Basispunkt +2, Der Bonus mit Gildenmeister +1, Der Verteidigungsbonus +1 >
+
+[ShapeYou]  Vegeta(Stufe 2) Angriffskraft ¡æ [Viciouz] Der Gildenmeister jazon
+< Der Basispunkt +2 >
+
+[Mythic]  Heresia(Stufe 2) Angriffskraft ¡æ [ShapeYou]  Vegeta
+< Der Basispunkt +2 >
+
+[Mythic]  Berserker(Stufe 2) Angriffskraft ¡æ [ShapeYou]  Shuego
+< Der Basispunkt +2 >
+
+[Mythic]  Aff3e(Stufe 2) Angriffskraft ¡æ [ShapeYou]  Shuego
+< Der Basispunkt +2 >
+
+[Mythic]  Heresia(Stufe 2) Angriffskraft ¡æ [Viciouz] Der Gildenmeister jazon
+< Der Basispunkt +2 >
+
+[ShapeYou]  EternaL(Stufe 2) Angriffskraft ¡æ [Mythic] Verteidiger Heresia
+< Der Basispunkt +2, Der Verteidigungsbonus +1 >
+
+[Mythic]  Berserker(Stufe 2) Angriffskraft ¡æ [ShapeYou]  EternaL
+< Der Basispunkt +2 >
+
+[Mythic]  Gismoe(Stufe 2) Angriffskraft ¡æ [ShapeYou]  Vegeta
+< Der Basispunkt +2 >
+
+[Mythic]  Aff3e(Stufe 2) Angriffskraft ¡æ [Viciouz] Der Gildenmeister jazon
+< Der Basispunkt +2 >
+
+[Mythic]  Aff3e(Stufe 2) Angriffskraft ¡æ [Viciouz] Der Gildenmeister jazon
+< Der Basispunkt +2 >
+
+[Mythic]  Aff3e(Stufe 2) Angriffskraft ¡æ [ShapeYou]  EternaL
+< Der Basispunkt +2 >
+
+[ShapeYou]  Shuego(Stufe 2) Angriffskraft ¡æ [Mythic]  Berserker
+< Der Basispunkt +2 >
+
+[Mythic]  Heresia(Stufe 2) Angriffskraft ¡æ [ShapeYou]  Vegeta
+< Der Basispunkt +2 >
+
+[ShapeYou]  EternaL(Stufe 2) Angriffskraft ¡æ [Viciouz] Der Gildenmeister jazon
+< Der Basispunkt +2 >
+
+[Mythic]  Aff3e(Stufe 2) Angriffskraft ¡æ [ShapeYou]  Vegeta
+< Der Basispunkt +2 >
+
+[ShapeYou]  Shuego(Stufe 2) Angriffskraft ¡æ [Mythic]  Berserker
+< Der Basispunkt +2 >
+
+[Mythic]  Aff3e(Stufe 2) Angriffskraft ¡æ [ShapeYou] Verteidiger EternaL
+< Der Basispunkt +2, Der Verteidigungsbonus +1 >
+
+[Viciouz] Der Gildenmeister jazon(Stufe 2) Angriffskraft ¡æ [Mythic]  Aff3e
+< Der Basispunkt +2, Der Bonus mit Gildenmeister +1 >
+
+[Mythic]  Berserker(Stufe 2) Angriffskraft ¡æ [ShapeYou]  Shuego
+< Der Basispunkt +2 >
+
+[Viciouz] Der Gildenmeister jazon(Stufe 2) Angriffskraft ¡æ [Mythic]  Aff3e
+< Der Basispunkt +2, Der Bonus mit Gildenmeister +1 >
+
+[Mythic]  Heresia(Stufe 2) Angriffskraft ¡æ [ShapeYou]  Shuego
+< Der Basispunkt +2 >
+
+[Viciouz] Der Gildenmeister jazon(Stufe 2) Angriffskraft ¡æ [Mythic] Verteidiger Heresia
+< Der Basispunkt +2, Der Bonus mit Gildenmeister +1, Der Verteidigungsbonus +1 >
+
+[Mythic]  Berserker(Stufe 2) Angriffskraft ¡æ [Viciouz] Der Gildenmeister jazon
+< Der Basispunkt +2 >
+
+[ShapeYou]  Shuego(Stufe 2) Angriffskraft ¡æ [Mythic]  Berserker
+< Der Basispunkt +2 >
+
+[Mythic]  Gismoe(Stufe 2) Angriffskraft ¡æ [ShapeYou] Verteidiger EternaL
+< Der Basispunkt +2, Der Verteidigungsbonus +1 >
+
+[Mythic]  Heresia(Stufe 2) Angriffskraft ¡æ [ShapeYou]  Shuego
+< Der Basispunkt +2 >
+
+[Mythic]  Gismoe(Stufe 2) Angriffskraft ¡æ [Viciouz] Der Gildenmeister jazon
+< Der Basispunkt +2 >
+
+[Mythic]  Aff3e(Stufe 2) Angriffskraft ¡æ [ShapeYou]  Shuego
+< Der Basispunkt +2 >
+
+[Mythic]  Berserker(Stufe 2) Angriffskraft ¡æ [ShapeYou] Verteidiger EternaL
+< Der Basispunkt +2, Der Verteidigungsbonus +1 >
+
+[ShapeYou]  EternaL(Stufe 2) Angriffskraft ¡æ [Mythic]  Berserker
+< Der Basispunkt +2 >
+
+[Mythic]  Berserker(Stufe 2) Angriffskraft ¡æ [ShapeYou] Verteidiger EternaL
+< Der Basispunkt +2, Der Verteidigungsbonus +1 >
+
+[ShapeYou]  EternaL(Stufe 2) Angriffskraft ¡æ [Mythic]  Berserker
+< Der Basispunkt +2 >
+
+[ShapeYou]  EternaL(Stufe 2) Angriffskraft ¡æ [Mythic]  Berserker
+< Der Basispunkt +2 >
+
+[ShapeYou]  EternaL(Stufe 2) Angriffskraft ¡æ [Mythic]  Berserker
+< Der Basispunkt +2 >
+
+[Mythic]  Berserker(Stufe 2) Angriffskraft ¡æ [ShapeYou] Verteidiger EternaL
+< Der Basispunkt +2, Der Verteidigungsbonus +1, Der Wiederbelebungsbonus +1 >
+
+[Mythic]  Berserker(Stufe 2) Angriffskraft ¡æ [ShapeYou] Verteidiger EternaL
+< Der Basispunkt +2, Der Verteidigungsbonus +1, Der Wiederbelebungsbonus +1 >
+
+[Mythic]  Berserker(Stufe 2) Angriffskraft ¡æ [ShapeYou] Verteidiger EternaL
+< Der Basispunkt +2, Der Verteidigungsbonus +1, Der Wiederbelebungsbonus +1 >
+
+[Mythic]  Berserker(Stufe 2) Angriffskraft ¡æ [ShapeYou] Verteidiger EternaL
+< Der Basispunkt +2, Der Verteidigungsbonus +1, Der Wiederbelebungsbonus +1 >
+
