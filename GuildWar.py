@@ -5,6 +5,7 @@ import os
 import sys
 import re
 import time
+import argparse
 import pandas as pd
 import numpy as np
 import matplotlib.pyplot as plt
@@ -45,10 +46,9 @@ class Guild():
     self.score = kills*2
     
 
-def convert_guildlog_to_df(save_as_csv: bool = False):
+def convert_guildlog_to_df(guildwar_log, save_as_csv: bool = False):
   relevant_values = ['KillingGuild', 'KillingPlayer', 'KilledGuild', 'KilledPlayer']
   regex_string = r'\[(?P<KillingGuild>[\w]*)\] .*?((?P<KillingPlayer>[\w]*)\(Stufe 2\)) Angriffskraft .*?\[(?P<KilledGuild>[\w]*)\].*?(?P<KilledPlayer>[\w]*)\n'
-  guildwar_log = os.path.join(os.path.dirname(__file__), 'test', 'GuildLog_20220209.txt')
 
   df = pd.DataFrame([], columns = relevant_values)
   
@@ -152,15 +152,23 @@ def calc_ranking(df):
   return players_df.index.unique()
 
 
+def collect_args():
+  parser = argparse.ArgumentParser(description='Process some integers.')
+  parser.add_argument('-log'          , dest='log'        , type=str, help='path to guildwar_log.txt file'    , default = os.path.join(os.path.dirname(__file__), 'test', 'GuildLog_20220209.txt'))
+  parser.add_argument('-p', '--player', dest='playername' , type=str, help='playername that shall be observed', default='')
+
+  return parser.parse_args()
+
+
 def main():
+  
+  args = collect_args()
+
   # convert guildlog into pandas.DataFrame
-  df = convert_guildlog_to_df()
+  df = convert_guildlog_to_df(args['log'])
 
   # identify player for which stats shall be displayed
-  if len(sys.argv) > 1:
-    playernames = [sys.argv[1]] 
-  else:
-    playernames = calc_ranking(df)
+  playernames = [args['playername']] if args['playername'] != '' else calc_ranking(df)
 
   # show guildsummary
   guilds = []
