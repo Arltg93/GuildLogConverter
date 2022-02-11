@@ -7,6 +7,11 @@ set playername=
 set /p playername=Spielername:
 cls
 
-python GuildWar.py %playername%
+
+if "%playername%" == "" (
+    python GuildWar.py
+) else (
+    python GuildWar.py -p %playername%
+)
 goto choosePlayer
 pause

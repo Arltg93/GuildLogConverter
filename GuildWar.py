@@ -1,4 +1,6 @@
-# TODO: Colorcoding für Gilden (https://stackoverflow.com/questions/287871/how-to-print-colored-text-to-the-terminal)
+# TODO: 
+# Colorcoding für Gilden (https://stackoverflow.com/questions/287871/how-to-print-colored-text-to-the-terminal)
+#                        (https://stackabuse.com/how-to-print-colored-text-in-python/)
 
 
 import os
@@ -13,7 +15,10 @@ import matplotlib.pyplot as plt
 
 def get_colors_for_guilds(guilds):
   colors = {}
-  pass
+  for index, guild in enumerate(guilds):
+    #colors[guild] = '\\' + '033' + '[3' + f'{index+1}m'
+    colors[guild] = f'\033[1;3{index+1}m'
+  return colors
 
 class color():
     BLACK = '\033[30m'
@@ -34,6 +39,7 @@ class Player():
     self.guild = guild
     self.kills = kills
     self.deaths = deaths
+    self.score = kills*2
     self.kd = kills/deaths
 
 
@@ -72,7 +78,7 @@ def convert_guildlog_to_df(guildwar_log, save_as_csv: bool = False):
   return df
 
 
-def show_killdistribution(df):
+def show_killdistribution(df, colors):
   fig, plot = plt.subplots(ncols=2)
   
   killingguild_df = df.groupby(['KillingGuild']).sum()
@@ -100,50 +106,69 @@ def show_killdistribution(df):
   #plt.show()
 
 
-def show_kills_per_life(df, playername = None):
+def show_kills_per_life(df, playername, colors):
   lifes = 20
   kpl_df = df[(df.KilledPlayer == playername) | (df.KillingPlayer == playername)]
-  kills_in_current_life = []
+  guild_color = colors[df[df.KillingPlayer == playername].KillingGuild.unique()[0]]
+  kills_in_current_life = ''
   string_length_killer = max([len(x) for x in df.KillingPlayer.unique()])
-  print(f' Life | {"Killer".ljust(string_length_killer)} | Kills')
+  print(f'{guild_color} Life | {"Killer".ljust(string_length_killer)} | Kills')
   print( '-----------------------------------------------')
   for index in kpl_df.index.unique():
     if kpl_df.at[index, 'KilledPlayer'] == playername:
       killer = kpl_df.at[index, 'KillingPlayer']
-      print(f'  {" " if lifes < 10 else ""}{lifes}  | {killer.ljust(string_length_killer)} | {kills_in_current_life if len(kills_in_current_life) > 0 else ""} ')
-      kills_in_current_life.clear()
+      killer_guild_color = colors[df[df.KillingPlayer == killer].KillingGuild.unique()[0]]
+      print(f'{guild_color}  {" " if lifes < 10 else ""}{lifes}  | {killer_guild_color}{killer.ljust(string_length_killer)} {guild_color}| {kills_in_current_life} ')
+      kills_in_current_life = ''
       lifes -= 1
     else:
-      kills_in_current_life.append(kpl_df.at[index, 'KilledPlayer'])
+      killer = kpl_df.at[index, 'KilledPlayer']
+      kills_in_current_life += f'{colors[df[df.KillingPlayer == killer].KillingGuild.unique()[0]]}{killer}  '
+  print(color.RESET)
 
 
-def print_player_summary(df, playername):
+def print_player_summary(df, playername, colors):
   kills = df[df.KillingPlayer == playername].shape[0]
   deaths = df[df.KilledPlayer == playername].shape[0]
   players_df = df.groupby(['KillingPlayer']).sum()
+  guild_color = colors[df[df.KillingPlayer == playername].KillingGuild.unique()[0]] 
   ranking = sorted(players_df.kills.unique(), reverse = True)
   rank = [index for (index, item) in enumerate(ranking) if item == players_df.at[playername, 'kills']][0] + 1
   print('\n# # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # \n')
-  print(f' Spieler:  {playername}') 
-  print(f' Score: {kills*2}  |  Kills: {kills}  |  Deaths: {deaths}  |  K/D: {kills/deaths}  |  Rank: {rank} {"(MVP)" if rank == 1 else ""}\n')
+  print(f'{guild_color} Spieler:  {color.UNDERLINE}{playername}{color.RESET}{guild_color}') 
+  print(f' Score: {kills*2}  |  Kills: {kills}  |  Deaths: {deaths}  |  K/D: {np.round(kills/deaths,2)}  |  Rank: {rank} {"(MVP)" if rank == 1 else ""}\n')
+  print(color.RESET)
 
 
-def print_guild_summary(df, guildname):
+def print_guild_summary(df, guildname, colors):
+  guild_color = colors[guildname]
   guild_kills_df = df[df.KillingGuild == guildname]
   guild_deaths_df = df[df.KilledGuild == guildname]
   players_df = guild_kills_df.groupby(['KillingPlayer']).sum()
   print('\n# # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # \n')
-  print(f' Gilde:  {guildname}  |  Punkte: {guild_kills_df.kills.sum()*2}  |  Kills: {guild_kills_df.kills.sum()}  |  Deaths = {guild_deaths_df.kills.sum()}')
+  print(f'{guild_color} Gilde:  {color.UNDERLINE}{guildname}{color.RESET}')
+  print(f'{guild_color} Punkte: {guild_kills_df.kills.sum()*2}  |  Kills: {guild_kills_df.kills.sum()}  |  Deaths = {guild_deaths_df.kills.sum()}')
   print('')
-  players_string = ' Spieler: '
+  players_string = f'{guild_color} Spieler: '
   for player in guild_kills_df.KillingPlayer.unique():
     players_string += f'{player} ({players_df.at[player, "kills"]*2}),  '
   print(players_string)
-  print(f'\n Kills:')
-  print(guild_kills_df.KilledPlayer.to_list())
-  print(f'\n Deaths:')
-  print(guild_kills_df.KillingPlayer.to_list())
 
+  print(f'\n {color.RESET}Kills:')
+  kills_str = ''
+  for killer in guild_kills_df.KilledPlayer.to_list():
+    kills_str += f'{colors[df[df.KillingPlayer == killer].KillingGuild.unique()[0]]}{killer}  '
+  print(kills_str)
+
+  ### TODO:
+  # Check if this ...
+  print(f'\n {color.RESET} Deaths:')
+  deaths_str = ''
+  for kill in guild_deaths_df.KillingPlayer.to_list():
+    deaths_str += f'{colors[df[df.KillingPlayer == kill].KillingGuild.unique()[0]]}{kill}  '
+  print(deaths_str)
+  # ... can be outsourced into function
+  print(color.RESET)
 
 
 def calc_ranking(df):
@@ -161,29 +186,30 @@ def collect_args():
 
 
 def main():
-  
+
   args = collect_args()
 
   # convert guildlog into pandas.DataFrame
-  df = convert_guildlog_to_df(args['log'])
+  df = convert_guildlog_to_df(args.log)
 
   # identify player for which stats shall be displayed
-  playernames = [args['playername']] if args['playername'] != '' else calc_ranking(df)
+  playernames = [args.playername] if args.playername != '' else calc_ranking(df)
 
   # show guildsummary
   guilds = []
   for playername in playernames:
     guilds.append(df[df.KillingPlayer == playername].KillingGuild.unique()[0])
+  colors = get_colors_for_guilds(df.KillingGuild.unique())
   for guild in guilds:
-    print_guild_summary(df, guild)
+    print_guild_summary(df, guild, colors)
   
   # show player stats
   for playername in playernames:
-    print_player_summary(df, playername)
-    show_kills_per_life(df, playername)
+    print_player_summary(df, playername, colors)
+    show_kills_per_life(df, playername, colors)
     
   # show kill distribution in a pie chart
-  show_killdistribution(df)
+  show_killdistribution(df, colors)
 
 
 if __name__ == "__main__":
