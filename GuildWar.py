@@ -2,6 +2,7 @@
 # Colorcoding für Gilden (https://stackoverflow.com/questions/287871/how-to-print-colored-text-to-the-terminal)
 #                        (https://stackabuse.com/how-to-print-colored-text-in-python/)
 
+# Änderung Georg
 
 import os
 import sys
@@ -200,7 +201,7 @@ def main():
   for playername in playernames:
     guilds.append(df[df.KillingPlayer == playername].KillingGuild.unique()[0])
   colors = get_colors_for_guilds(df.KillingGuild.unique())
-  for guild in guilds:
+  for guild in set(guilds):
     print_guild_summary(df, guild, colors)
   
   # show player stats
