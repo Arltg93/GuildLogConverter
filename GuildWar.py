@@ -18,8 +18,13 @@ def get_colors_for_guilds(guilds):
   colors = {}
   for index, guild in enumerate(guilds):
     #colors[guild] = '\\' + '033' + '[3' + f'{index+1}m'
-    colors[guild] = f'\033[1;3{index+1}m'
+    if index > 6:
+      colors[guild] = f'\033[3{index-6}m'
+    else:
+      colors[guild] = f'\033[3{index+1}m'
+
   return colors
+
 
 class color():
     BLACK = '\033[30m'
@@ -124,7 +129,7 @@ def show_kills_per_life(df, playername, colors):
       lifes -= 1
     else:
       killer = kpl_df.at[index, 'KilledPlayer']
-      kills_in_current_life += f'{colors[df[df.KillingPlayer == killer].KillingGuild.unique()[0]]}{killer}  '
+      kills_in_current_life += f'{colors[df[df.KilledPlayer == killer].KillingGuild.unique()[0]]}{killer}  '
   print(color.RESET)
 
 
@@ -148,7 +153,7 @@ def print_guild_summary(df, guildname, colors):
   players_df = guild_kills_df.groupby(['KillingPlayer']).sum()
   print('\n# # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # \n')
   print(f'{guild_color} Gilde:  {color.UNDERLINE}{guildname}{color.RESET}')
-  print(f'{guild_color} Punkte: {guild_kills_df.kills.sum()*2}  |  Kills: {guild_kills_df.kills.sum()}  |  Deaths = {guild_deaths_df.kills.sum()}')
+  print(f'{guild_color} Punkte: {guild_kills_df.kills.sum()*2}  |  Kills: {guild_kills_df.kills.sum()}  |  Deaths = {guild_deaths_df.kills.sum()}{color.RESET}')
   print('')
   players_string = f'{guild_color} Spieler: '
   for player in guild_kills_df.KillingPlayer.unique():
@@ -158,7 +163,7 @@ def print_guild_summary(df, guildname, colors):
   print(f'\n {color.RESET}Kills:')
   kills_str = ''
   for killer in guild_kills_df.KilledPlayer.to_list():
-    kills_str += f'{colors[df[df.KillingPlayer == killer].KillingGuild.unique()[0]]}{killer}  '
+    kills_str += f'{colors[df[df.KilledPlayer == killer].KillingGuild.unique()[0]]}{killer}  '
   print(kills_str)
 
   ### TODO:
@@ -166,7 +171,7 @@ def print_guild_summary(df, guildname, colors):
   print(f'\n {color.RESET} Deaths:')
   deaths_str = ''
   for kill in guild_deaths_df.KillingPlayer.to_list():
-    deaths_str += f'{colors[df[df.KillingPlayer == kill].KillingGuild.unique()[0]]}{kill}  '
+    deaths_str += f'{colors[df[df.KilledPlayer == kill].KillingGuild.unique()[0]]}{kill}  '
   print(deaths_str)
   # ... can be outsourced into function
   print(color.RESET)
@@ -178,10 +183,43 @@ def calc_ranking(df):
   return players_df.index.unique()
 
 
+def display_guild(df, guildname, colors):
+  fig, plot = plt.subplots(ncols=2)
+  guild_kills_df = df[df.KillingGuild == guildname]
+  guild_deaths_df = df[df.KilledGuild == guildname]
+
+
+  killingguild_df = guild_kills_df.groupby(['KilledGuild']).sum()
+  killingguild_df.sort_values(by=['kills'], inplace=True)
+  killingguild_df.plot.pie(ax = plot[0], 
+                            y = 'kills', 
+                            figsize=(20,20), 
+                            autopct='%1.1f%%', 
+                            explode = [0.05 for _ in range(killingguild_df.shape[0])], 
+                            legend = False, 
+                            ylabel = '',
+                            title = f'Kills der Gilde {guildname}')
+
+
+  killedguild_df = guild_deaths_df.groupby(['KillingGuild']).sum()
+  killedguild_df.sort_values(by=['kills'], inplace=True)
+  killedguild_df.plot.pie(ax = plot[1], 
+                            y = 'kills', 
+                            figsize=(20,20), 
+                            autopct='%1.1f%%', 
+                            explode = [0.05 for _ in range(killedguild_df.shape[0])], 
+                            legend = False, 
+                            ylabel = '',
+                            title = f'Tode der Gilde {guildname}')
+
+  #plt.show()
+
+
 def collect_args():
   parser = argparse.ArgumentParser(description='Process some integers.')
-  parser.add_argument('-log'          , dest='log'        , type=str, help='path to guildwar_log.txt file'    , default = os.path.join(os.path.dirname(__file__), 'test', 'GuildLog_20220209.txt'))
+  parser.add_argument('-log'          , dest='log'        , type=str, help='path to guildwar_log.txt file'    , default = os.path.join(os.path.dirname(__file__), 'test', 'GuildLog_20220215.txt'))
   parser.add_argument('-p', '--player', dest='playername' , type=str, help='playername that shall be observed', default='')
+  parser.add_argument('-g', '--guild' , dest='guildname'  , type=str, help='guildname that shall be observed' , default='')
 
   return parser.parse_args()
 
@@ -194,15 +232,19 @@ def main():
   df = convert_guildlog_to_df(args.log)
 
   # identify player for which stats shall be displayed
-  playernames = [args.playername] if args.playername != '' else calc_ranking(df)
+  playernames = [args.playername] if args.playername else calc_ranking(df)
+  
 
   # show guildsummary
   guilds = []
   for playername in playernames:
     guilds.append(df[df.KillingPlayer == playername].KillingGuild.unique()[0])
+  guildnames = set([args.guildname]) if args.guildname else set(guilds)
   colors = get_colors_for_guilds(df.KillingGuild.unique())
-  for guild in set(guilds):
-    print_guild_summary(df, guild, colors)
+
+  for guildname in guildnames:
+    print_guild_summary(df, guildname, colors)
+    display_guild(df, guildname, colors)
   
   # show player stats
   for playername in playernames:

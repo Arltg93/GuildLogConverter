@@ -1,0 +1,2178 @@
+[Wolves] Der Gildenmeister Ward(Stufe 2) Angriffskraft ¡æ [Fear]  Arce
+< Der Basispunkt +2, Der Bonus mit Gildenmeister +1 >
+
+[ShapeYou]  Leftside(Stufe 2) Angriffskraft ¡æ [Fear] Der Gildenmeister Hulkhodn
+< Der Basispunkt +2 >
+
+[ShapeYou]  Berserker(Stufe 2) Angriffskraft ¡æ [Fear]  Amphiiii
+< Der Basispunkt +2 >
+
+[Fear]  saiyaa(Stufe 2) Angriffskraft ¡æ [Saiyajins] Verteidiger Gismoe
+< Der Basispunkt +2, Der Verteidigungsbonus +1 >
+
+[Mythic]  Vegeta(Stufe 2) Angriffskraft ¡æ [Fear]  Epalisk
+< Der Basispunkt +2 >
+
+[hhhhhhhhhhhhhhh] Der Gildenmeister Nyah(Stufe 2) Angriffskraft ¡æ [ShapeYou] Der Gildenmeister Aff3e
+< Der Basispunkt +2, Der Bonus mit Gildenmeister +1 >
+
+[ShapeYou]  Extrakt(Stufe 2) Angriffskraft ¡æ [hhhhhhhhhhhhhhh] Der Gildenmeister Nyah
+< Der Basispunkt +2 >
+
+[hhhhhhhhhhhhhhh]  Kikyo(Stufe 2) Angriffskraft ¡æ [Fear] Verteidiger saiyaa
+< Der Basispunkt +2, Der Verteidigungsbonus +1 >
+
+[Mythic]  Heresia(Stufe 2) Angriffskraft ¡æ [hhhhhhhhhhhhhhh]  Kikyo
+< Der Basispunkt +2 >
+
+[Havanna]  Shikku(Stufe 2) Angriffskraft ¡æ [asddfasfd] Verteidiger Astaire
+< Der Basispunkt +2, Der Verteidigungsbonus +1 >
+
+[Mythic] Der Gildenmeister Quez(Stufe 2) Angriffskraft ¡æ [Bootylicious] Der Gildenmeister Melon
+< Der Basispunkt +2, Der Bonus mit Gildenmeister +1 >
+
+[Mythic]  Beastyquty(Stufe 2) Angriffskraft ¡æ [Havanna] Verteidiger Shikku
+< Der Basispunkt +2, Der Verteidigungsbonus +1 >
+
+[Fear]  Arce(Stufe 2) Angriffskraft ¡æ [ShapeYou]  Leftside
+< Der Basispunkt +2 >
+
+[PopularLoner]  CaptainSabotage(Stufe 2) Angriffskraft ¡æ [Mythic]  Beastyquty
+< Der Basispunkt +2 >
+
+[Mythic]  Heresia(Stufe 2) Angriffskraft ¡æ [Havanna]  Acai
+< Der Basispunkt +2 >
+
+[ShapeYou]  Shuego(Stufe 2) Angriffskraft ¡æ [Fear]  Arce
+< Der Basispunkt +2 >
+
+[Mythic]  Heresia(Stufe 2) Angriffskraft ¡æ [hhhhhhhhhhhhhhh]  Kikyo
+< Der Basispunkt +2 >
+
+[Saiyajins] Der Gildenmeister Gismoe(Stufe 2) Angriffskraft ¡æ [Havanna] Verteidiger Shikku
+< Der Basispunkt +2, Der Bonus mit Gildenmeister +1, Der Verteidigungsbonus +1 >
+
+[PopularLoner]  Avenue(Stufe 2) Angriffskraft ¡æ [Saiyajins] Verteidiger Gismoe
+< Der Basispunkt +2, Der Verteidigungsbonus +1 >
+
+[PopularLoner]  CaptainSabotage(Stufe 2) Angriffskraft ¡æ [Mythic]  Beastyquty
+< Der Basispunkt +2 >
+
+[Fear]  Epalisk(Stufe 2) Angriffskraft ¡æ [Mythic] Verteidiger Cuculi
+< Der Basispunkt +2, Der Verteidigungsbonus +1 >
+
+[Mythic] Der Gildenmeister Quez(Stufe 2) Angriffskraft ¡æ [PopularLoner]  CaptainSabotage
+< Der Basispunkt +2, Der Bonus mit Gildenmeister +1 >
+
+[asddfasfd] Der Gildenmeister Astaire(Stufe 2) Angriffskraft ¡æ [Fear]  Amphiiii
+< Der Basispunkt +2, Der Bonus mit Gildenmeister +1 >
+
+[Immortal]  Rodopushin(Stufe 2) Angriffskraft ¡æ [Mythic]  Vegeta
+< Der Basispunkt +2 >
+
+[Wolves] Der Gildenmeister Ward(Stufe 2) Angriffskraft ¡æ [Mythic]  Heresia
+< Der Basispunkt +2, Der Bonus mit Gildenmeister +1 >
+
+[PopularLoner]  Lore(Stufe 2) Angriffskraft ¡æ [Fear]  Arce
+< Der Basispunkt +2 >
+
+[Wolves] Der Gildenmeister Ward(Stufe 2) Angriffskraft ¡æ [ShapeYou] Der Gildenmeister Aff3e
+< Der Basispunkt +2, Der Bonus mit Gildenmeister +1 >
+
+[Havanna]  Acai(Stufe 2) Angriffskraft ¡æ [Mythic] Verteidiger Cuculi
+< Der Basispunkt +2, Der Verteidigungsbonus +1 >
+
+[hhhhhhhhhhhhhhh]  Kikyo(Stufe 2) Angriffskraft ¡æ [Immortal]  SilverKing
+< Der Basispunkt +2 >
+
+[Immortal]  Amunra(Stufe 2) Angriffskraft ¡æ [Fear]  Amphiiii
+< Der Basispunkt +2 >
+
+[Immortal]  Amunra(Stufe 2) Angriffskraft ¡æ [hhhhhhhhhhhhhhh]  Kikyo
+< Der Basispunkt +2 >
+
+[Viciouz] Der Gildenmeister jazon(Stufe 2) Angriffskraft ¡æ [Duesenflitzer] Verteidiger Monsti
+< Der Basispunkt +2, Der Bonus mit Gildenmeister +1, Der Verteidigungsbonus +1 >
+
+[ShapeYou] Der Gildenmeister Aff3e(Stufe 2) Angriffskraft ¡æ [Fear]  Arce
+< Der Basispunkt +2, Der Bonus mit Gildenmeister +1 >
+
+[Havanna]  Shikku(Stufe 2) Angriffskraft ¡æ [ShapeYou]  Extrakt
+< Der Basispunkt +2 >
+
+[ShapeYou] Der Gildenmeister Aff3e(Stufe 2) Angriffskraft ¡æ [Havanna] Verteidiger Shikku
+< Der Basispunkt +2, Der Bonus mit Gildenmeister +1, Der Verteidigungsbonus +1 >
+
+[Immortal]  Rodopushin(Stufe 2) Angriffskraft ¡æ [Mythic]  Vegeta
+< Der Basispunkt +2 >
+
+[Fear] Der Gildenmeister Hulkhodn(Stufe 2) Angriffskraft ¡æ [ShapeYou]  Berserker
+< Der Basispunkt +2, Der Bonus mit Gildenmeister +1 >
+
+[Immortal] Der Gildenmeister Biti(Stufe 2) Angriffskraft ¡æ [ShapeYou] Der Gildenmeister Aff3e
+< Der Basispunkt +2, Der Bonus mit Gildenmeister +1 >
+
+[Mythic]  Heresia(Stufe 2) Angriffskraft ¡æ [Bootylicious] Der Gildenmeister Melon
+< Der Basispunkt +2 >
+
+[ShapeYou]  Leftside(Stufe 2) Angriffskraft ¡æ [Wolves] Verteidiger Ward
+< Der Basispunkt +2, Der Verteidigungsbonus +1 >
+
+[PopularLoner]  CaptainSabotage(Stufe 2) Angriffskraft ¡æ [Mythic]  Heresia
+< Der Basispunkt +2 >
+
+[Mythic] Der Gildenmeister Quez(Stufe 2) Angriffskraft ¡æ [Havanna]  Acai
+< Der Basispunkt +2, Der Bonus mit Gildenmeister +1 >
+
+[Viciouz] Der Gildenmeister jazon(Stufe 2) Angriffskraft ¡æ [PopularLoner]  CaptainSabotage
+< Der Basispunkt +2, Der Bonus mit Gildenmeister +1 >
+
+[Bootylicious]  Kuroe(Stufe 2) Angriffskraft ¡æ [Mythic] Verteidiger Cuculi
+< Der Basispunkt +2, Der Verteidigungsbonus +1 >
+
+[PopularLoner]  Lore(Stufe 2) Angriffskraft ¡æ [Mythic] Der Gildenmeister Quez
+< Der Basispunkt +2 >
+
+[ShapeYou]  Extrakt(Stufe 2) Angriffskraft ¡æ [Fear]  Arce
+< Der Basispunkt +2 >
+
+[Immortal]  SilverKing(Stufe 2) Angriffskraft ¡æ [hhhhhhhhhhhhhhh]  Kikyo
+< Der Basispunkt +2 >
+
+[ShapeYou]  Berserker(Stufe 2) Angriffskraft ¡æ [Immortal]  Amunra
+< Der Basispunkt +2 >
+
+[Havanna]  Vlad(Stufe 2) Angriffskraft ¡æ [Mythic]  Beastyquty
+< Der Basispunkt +2 >
+
+[Immortal]  SilverKing(Stufe 2) Angriffskraft ¡æ [Fear]  Amphiiii
+< Der Basispunkt +2 >
+
+[asddfasfd] Der Gildenmeister Astaire(Stufe 2) Angriffskraft ¡æ [Havanna]  Vlad
+< Der Basispunkt +2, Der Bonus mit Gildenmeister +1 >
+
+[Havanna]  Shikku(Stufe 2) Angriffskraft ¡æ [Mythic]  Heresia
+< Der Basispunkt +2 >
+
+[Bootylicious] Der Gildenmeister Melon(Stufe 2) Angriffskraft ¡æ [ShapeYou]  Leftside
+< Der Basispunkt +2, Der Bonus mit Gildenmeister +1 >
+
+[hhhhhhhhhhhhhhh] Der Gildenmeister Nyah(Stufe 2) Angriffskraft ¡æ [Mythic]  Vegeta
+< Der Basispunkt +2, Der Bonus mit Gildenmeister +1 >
+
+[Havanna]  Vlad(Stufe 2) Angriffskraft ¡æ [Mythic]  Beastyquty
+< Der Basispunkt +2 >
+
+[ShapeYou] Der Gildenmeister Aff3e(Stufe 2) Angriffskraft ¡æ [PopularLoner]  CaptainSabotage
+< Der Basispunkt +2, Der Bonus mit Gildenmeister +1 >
+
+[Saiyajins] Der Gildenmeister Gismoe(Stufe 2) Angriffskraft ¡æ [Fear]  Arce
+< Der Basispunkt +2, Der Bonus mit Gildenmeister +1 >
+
+[hhhhhhhhhhhhhhh]  Kikyo(Stufe 2) Angriffskraft ¡æ [Bootylicious] Der Gildenmeister Melon
+< Der Basispunkt +2 >
+
+[ShapeYou] Der Gildenmeister Aff3e(Stufe 2) Angriffskraft ¡æ [Saiyajins] Verteidiger Gismoe
+< Der Basispunkt +2, Der Bonus mit Gildenmeister +1, Der Verteidigungsbonus +1 >
+
+[PopularLoner]  Lore(Stufe 2) Angriffskraft ¡æ [hhhhhhhhhhhhhhh]  Kikyo
+< Der Basispunkt +2 >
+
+[Immortal]  SilverKing(Stufe 2) Angriffskraft ¡æ [Fear]  Amphiiii
+< Der Basispunkt +2 >
+
+[asddfasfd] Der Gildenmeister Astaire(Stufe 2) Angriffskraft ¡æ [Bootylicious]  Kuroe
+< Der Basispunkt +2, Der Bonus mit Gildenmeister +1 >
+
+[Havanna]  Shikku(Stufe 2) Angriffskraft ¡æ [Mythic]  Beastyquty
+< Der Basispunkt +2 >
+
+[Mythic] Der Gildenmeister Quez(Stufe 2) Angriffskraft ¡æ [Bootylicious] Der Gildenmeister Melon
+< Der Basispunkt +2, Der Bonus mit Gildenmeister +1 >
+
+[Immortal]  SilverKing(Stufe 2) Angriffskraft ¡æ [Viciouz] Der Gildenmeister jazon
+< Der Basispunkt +2 >
+
+[Fear]  Epalisk(Stufe 2) Angriffskraft ¡æ [asddfasfd] Verteidiger Astaire
+< Der Basispunkt +2, Der Verteidigungsbonus +1 >
+
+[hhhhhhhhhhhhhhh]  Kikyo(Stufe 2) Angriffskraft ¡æ [Saiyajins] Verteidiger Gismoe
+< Der Basispunkt +2, Der Verteidigungsbonus +1 >
+
+[hhhhhhhhhhhhhhh]  Kikyo(Stufe 2) Angriffskraft ¡æ [Mythic]  Heresia
+< Der Basispunkt +2 >
+
+[hhhhhhhhhhhhhhh]  Kikyo(Stufe 2) Angriffskraft ¡æ [ShapeYou] Der Gildenmeister Aff3e
+< Der Basispunkt +2 >
+
+[Mythic] Der Gildenmeister Quez(Stufe 2) Angriffskraft ¡æ [hhhhhhhhhhhhhhh]  Kikyo
+< Der Basispunkt +2, Der Bonus mit Gildenmeister +1 >
+
+[ShapeYou]  Extrakt(Stufe 2) Angriffskraft ¡æ [Bootylicious]  Kuroe
+< Der Basispunkt +2 >
+
+[Bootylicious] Der Gildenmeister Melon(Stufe 2) Angriffskraft ¡æ [ShapeYou]  Extrakt
+< Der Basispunkt +2, Der Bonus mit Gildenmeister +1 >
+
+[Immortal]  Rodopushin(Stufe 2) Angriffskraft ¡æ [ShapeYou]  Leftside
+< Der Basispunkt +2 >
+
+[Mythic]  Vegeta(Stufe 2) Angriffskraft ¡æ [Fear]  Arce
+< Der Basispunkt +2 >
+
+[ShapeYou]  Berserker(Stufe 2) Angriffskraft ¡æ [Fear]  Amphiiii
+< Der Basispunkt +2 >
+
+[Mythic]  Heresia(Stufe 2) Angriffskraft ¡æ [Fear] Verteidiger saiyaa
+< Der Basispunkt +2, Der Verteidigungsbonus +1 >
+
+[Havanna]  Akumii(Stufe 2) Angriffskraft ¡æ [ShapeYou] Der Gildenmeister Aff3e
+< Der Basispunkt +2 >
+
+[PopularLoner]  Avenue(Stufe 2) Angriffskraft ¡æ [ShapeYou]  Berserker
+< Der Basispunkt +2 >
+
+[Immortal]  SilverKing(Stufe 2) Angriffskraft ¡æ [hhhhhhhhhhhhhhh]  Kikyo
+< Der Basispunkt +2 >
+
+[Immortal]  Tricky(Stufe 2) Angriffskraft ¡æ [Mythic]  Heresia
+< Der Basispunkt +2 >
+
+[Immortal]  Rodopushin(Stufe 2) Angriffskraft ¡æ [ShapeYou]  Leftside
+< Der Basispunkt +2 >
+
+[Havanna]  Acai(Stufe 2) Angriffskraft ¡æ [Mythic]  Beastyquty
+< Der Basispunkt +2 >
+
+[ShapeYou]  Berserker(Stufe 2) Angriffskraft ¡æ [Wolves] Verteidiger Ward
+< Der Basispunkt +2, Der Verteidigungsbonus +1 >
+
+[asddfasfd] Der Gildenmeister Astaire(Stufe 2) Angriffskraft ¡æ [Fear]  Arce
+< Der Basispunkt +2, Der Bonus mit Gildenmeister +1 >
+
+[Havanna] Der Gildenmeister Meeresfrucht(Stufe 2) Angriffskraft ¡æ [Mythic] Verteidiger Cuculi
+< Der Basispunkt +2, Der Bonus mit Gildenmeister +1, Der Verteidigungsbonus +1 >
+
+[Immortal]  Amunra(Stufe 2) Angriffskraft ¡æ [Viciouz] Der Gildenmeister jazon
+< Der Basispunkt +2 >
+
+[Immortal]  SilverKing(Stufe 2) Angriffskraft ¡æ [Fear]  Amphiiii
+< Der Basispunkt +2 >
+
+[ShapeYou] Der Gildenmeister Aff3e(Stufe 2) Angriffskraft ¡æ [hhhhhhhhhhhhhhh]  Kikyo
+< Der Basispunkt +2, Der Bonus mit Gildenmeister +1 >
+
+[Havanna]  Akumii(Stufe 2) Angriffskraft ¡æ [Mythic]  Vegeta
+< Der Basispunkt +2 >
+
+[ShapeYou]  Extrakt(Stufe 2) Angriffskraft ¡æ [Havanna]  Akumii
+< Der Basispunkt +2 >
+
+[ShapeYou] Der Gildenmeister Aff3e(Stufe 2) Angriffskraft ¡æ [Fear]  Arce
+< Der Basispunkt +2, Der Bonus mit Gildenmeister +1 >
+
+[Fear]  saiyaa(Stufe 2) Angriffskraft ¡æ [ShapeYou]  Leftside
+< Der Basispunkt +2 >
+
+[Immortal]  Rodopushin(Stufe 2) Angriffskraft ¡æ [Mythic] Der Gildenmeister Quez
+< Der Basispunkt +2 >
+
+[ShapeYou] Der Gildenmeister Aff3e(Stufe 2) Angriffskraft ¡æ [Fear] Der Gildenmeister Hulkhodn
+< Der Basispunkt +2, Der Bonus mit Gildenmeister +1 >
+
+[hhhhhhhhhhhhhhh]  Kikyo(Stufe 2) Angriffskraft ¡æ [Fear]  Amphiiii
+< Der Basispunkt +2 >
+
+[PopularLoner]  Lore(Stufe 2) Angriffskraft ¡æ [Havanna]  Acai
+< Der Basispunkt +2 >
+
+[ShapeYou]  Berserker(Stufe 2) Angriffskraft ¡æ [Fear]  Epalisk
+< Der Basispunkt +2 >
+
+[hhhhhhhhhhhhhhh]  Kikyo(Stufe 2) Angriffskraft ¡æ [ShapeYou]  Berserker
+< Der Basispunkt +2 >
+
+[Immortal]  SilverKing(Stufe 2) Angriffskraft ¡æ [hhhhhhhhhhhhhhh]  Kikyo
+< Der Basispunkt +2 >
+
+[Mythic]  Heresia(Stufe 2) Angriffskraft ¡æ [asddfasfd] Verteidiger Astaire
+< Der Basispunkt +2, Der Verteidigungsbonus +1 >
+
+[ShapeYou]  Extrakt(Stufe 2) Angriffskraft ¡æ [Wolves] Verteidiger Ward
+< Der Basispunkt +2, Der Verteidigungsbonus +1 >
+
+[ShapeYou] Der Gildenmeister Aff3e(Stufe 2) Angriffskraft ¡æ [hhhhhhhhhhhhhhh]  Kikyo
+< Der Basispunkt +2, Der Bonus mit Gildenmeister +1 >
+
+[Bootylicious]  Kuroe(Stufe 2) Angriffskraft ¡æ [ShapeYou]  Berserker
+< Der Basispunkt +2 >
+
+[Mythic]  Beastyquty(Stufe 2) Angriffskraft ¡æ [PopularLoner]  CaptainSabotage
+< Der Basispunkt +2 >
+
+[ShapeYou]  Leftside(Stufe 2) Angriffskraft ¡æ [Fear] Der Gildenmeister Hulkhodn
+< Der Basispunkt +2 >
+
+[Havanna]  Shikku(Stufe 2) Angriffskraft ¡æ [Mythic]  Beastyquty
+< Der Basispunkt +2 >
+
+[ShapeYou] Der Gildenmeister Aff3e(Stufe 2) Angriffskraft ¡æ [Havanna] Verteidiger Shikku
+< Der Basispunkt +2, Der Bonus mit Gildenmeister +1, Der Verteidigungsbonus +1 >
+
+[Fear]  Arce(Stufe 2) Angriffskraft ¡æ [PopularLoner]  Lore
+< Der Basispunkt +2 >
+
+[Mythic]  Vegeta(Stufe 2) Angriffskraft ¡æ [Fear]  Epalisk
+< Der Basispunkt +2 >
+
+[Immortal] Der Gildenmeister Biti(Stufe 2) Angriffskraft ¡æ [Mythic]  Vegeta
+< Der Basispunkt +2, Der Bonus mit Gildenmeister +1 >
+
+[Havanna]  Akumii(Stufe 2) Angriffskraft ¡æ [Mythic] Verteidiger Cuculi
+< Der Basispunkt +2, Der Verteidigungsbonus +1 >
+
+[Immortal]  SilverKing(Stufe 2) Angriffskraft ¡æ [hhhhhhhhhhhhhhh]  Kikyo
+< Der Basispunkt +2 >
+
+[Viciouz] Der Gildenmeister jazon(Stufe 2) Angriffskraft ¡æ [Bootylicious] Der Gildenmeister Melon
+< Der Basispunkt +2, Der Bonus mit Gildenmeister +1 >
+
+[ShapeYou] Der Gildenmeister Aff3e(Stufe 2) Angriffskraft ¡æ [Fear]  Amphiiii
+< Der Basispunkt +2, Der Bonus mit Gildenmeister +1 >
+
+[asddfasfd] Der Gildenmeister Astaire(Stufe 2) Angriffskraft ¡æ [Immortal] Verteidiger Rodopushin
+< Der Basispunkt +2, Der Bonus mit Gildenmeister +1, Der Verteidigungsbonus +1 >
+
+[Immortal]  SilverKing(Stufe 2) Angriffskraft ¡æ [asddfasfd] Verteidiger Astaire
+< Der Basispunkt +2, Der Verteidigungsbonus +1 >
+
+[Bootylicious]  Kuroe(Stufe 2) Angriffskraft ¡æ [ShapeYou] Der Gildenmeister Aff3e
+< Der Basispunkt +2 >
+
+[Havanna]  Shikku(Stufe 2) Angriffskraft ¡æ [ShapeYou]  Extrakt
+< Der Basispunkt +2 >
+
+[Mythic]  Beastyquty(Stufe 2) Angriffskraft ¡æ [Havanna] Verteidiger Shikku
+< Der Basispunkt +2, Der Verteidigungsbonus +1 >
+
+[Havanna]  Acai(Stufe 2) Angriffskraft ¡æ [Mythic]  Beastyquty
+< Der Basispunkt +2 >
+
+[Immortal]  Amunra(Stufe 2) Angriffskraft ¡æ [Fear]  Arce
+< Der Basispunkt +2 >
+
+[ShapeYou]  Leftside(Stufe 2) Angriffskraft ¡æ [Immortal]  Tricky
+< Der Basispunkt +2 >
+
+[Immortal]  Rodopushin(Stufe 2) Angriffskraft ¡æ [ShapeYou]  Leftside
+< Der Basispunkt +2 >
+
+[ShapeYou] Der Gildenmeister Aff3e(Stufe 2) Angriffskraft ¡æ [hhhhhhhhhhhhhhh]  Kikyo
+< Der Basispunkt +2, Der Bonus mit Gildenmeister +1 >
+
+[PopularLoner]  Lore(Stufe 2) Angriffskraft ¡æ [Mythic]  Heresia
+< Der Basispunkt +2 >
+
+[Mythic]  Cuculi(Stufe 2) Angriffskraft ¡æ [PopularLoner]  Lore
+< Der Basispunkt +2 >
+
+[Fear] Der Gildenmeister Hulkhodn(Stufe 2) Angriffskraft ¡æ [Immortal]  Amunra
+< Der Basispunkt +2, Der Bonus mit Gildenmeister +1 >
+
+[ShapeYou]  Extrakt(Stufe 2) Angriffskraft ¡æ [Mythic]  Vegeta
+< Der Basispunkt +2 >
+
+[ShapeYou]  Berserker(Stufe 2) Angriffskraft ¡æ [PopularLoner]  CaptainSabotage
+< Der Basispunkt +2 >
+
+[asddfasfd] Der Gildenmeister Astaire(Stufe 2) Angriffskraft ¡æ [Fear]  Amphiiii
+< Der Basispunkt +2, Der Bonus mit Gildenmeister +1 >
+
+[Havanna]  Acai(Stufe 2) Angriffskraft ¡æ [ShapeYou] Der Gildenmeister Aff3e
+< Der Basispunkt +2 >
+
+[Wolves] Der Gildenmeister Ward(Stufe 2) Angriffskraft ¡æ [Mythic]  Beastyquty
+< Der Basispunkt +2, Der Bonus mit Gildenmeister +1 >
+
+[Fear]  Arce(Stufe 2) Angriffskraft ¡æ [asddfasfd] Verteidiger Astaire
+< Der Basispunkt +2, Der Verteidigungsbonus +1 >
+
+[hhhhhhhhhhhhhhh] Der Gildenmeister Nyah(Stufe 2) Angriffskraft ¡æ [Wolves] Verteidiger Ward
+< Der Basispunkt +2, Der Bonus mit Gildenmeister +1, Der Verteidigungsbonus +1 >
+
+[Viciouz] Der Gildenmeister jazon(Stufe 2) Angriffskraft ¡æ [Havanna] Der Gildenmeister Meeresfrucht
+< Der Basispunkt +2, Der Bonus mit Gildenmeister +1 >
+
+[Fear]  Epalisk(Stufe 2) Angriffskraft ¡æ [Mythic]  Heresia
+< Der Basispunkt +2 >
+
+[Viciouz] Der Gildenmeister jazon(Stufe 2) Angriffskraft ¡æ [Havanna]  Akumii
+< Der Basispunkt +2, Der Bonus mit Gildenmeister +1 >
+
+[Fear] Der Gildenmeister Hulkhodn(Stufe 2) Angriffskraft ¡æ [Mythic]  Vegeta
+< Der Basispunkt +2, Der Bonus mit Gildenmeister +1 >
+
+[Fear]  saiyaa(Stufe 2) Angriffskraft ¡æ [Immortal]  Amunra
+< Der Basispunkt +2 >
+
+[Immortal]  Rodopushin(Stufe 2) Angriffskraft ¡æ [ShapeYou]  Leftside
+< Der Basispunkt +2 >
+
+[PopularLoner]  CaptainSabotage(Stufe 2) Angriffskraft ¡æ [hhhhhhhhhhhhhhh]  Kikyo
+< Der Basispunkt +2 >
+
+[ShapeYou]  Berserker(Stufe 2) Angriffskraft ¡æ [Wolves] Verteidiger Ward
+< Der Basispunkt +2, Der Verteidigungsbonus +1 >
+
+[Mythic]  Vegeta(Stufe 2) Angriffskraft ¡æ [ShapeYou]  Berserker
+< Der Basispunkt +2 >
+
+[Fear]  saiyaa(Stufe 2) Angriffskraft ¡æ [Mythic]  Heresia
+< Der Basispunkt +2 >
+
+[ShapeYou] Der Gildenmeister Aff3e(Stufe 2) Angriffskraft ¡æ [PopularLoner]  Lore
+< Der Basispunkt +2, Der Bonus mit Gildenmeister +1 >
+
+[Viciouz] Der Gildenmeister jazon(Stufe 2) Angriffskraft ¡æ [Immortal]  Amunra
+< Der Basispunkt +2, Der Bonus mit Gildenmeister +1 >
+
+[Bootylicious] Der Gildenmeister Melon(Stufe 2) Angriffskraft ¡æ [ShapeYou] Der Gildenmeister Aff3e
+< Der Basispunkt +2, Der Bonus mit Gildenmeister +1 >
+
+[Immortal]  SilverKing(Stufe 2) Angriffskraft ¡æ [Fear]  Amphiiii
+< Der Basispunkt +2 >
+
+[asddfasfd] Der Gildenmeister Astaire(Stufe 2) Angriffskraft ¡æ [hhhhhhhhhhhhhhh]  Kikyo
+< Der Basispunkt +2, Der Bonus mit Gildenmeister +1 >
+
+[Havanna]  Shikku(Stufe 2) Angriffskraft ¡æ [Mythic] Verteidiger Cuculi
+< Der Basispunkt +2, Der Verteidigungsbonus +1 >
+
+[Viciouz] Der Gildenmeister jazon(Stufe 2) Angriffskraft ¡æ [Immortal]  Tricky
+< Der Basispunkt +2, Der Bonus mit Gildenmeister +1 >
+
+[Immortal]  Rodopushin(Stufe 2) Angriffskraft ¡æ [PopularLoner]  CaptainSabotage
+< Der Basispunkt +2 >
+
+[Havanna] Der Gildenmeister Meeresfrucht(Stufe 2) Angriffskraft ¡æ [Mythic]  Beastyquty
+< Der Basispunkt +2, Der Bonus mit Gildenmeister +1 >
+
+[hhhhhhhhhhhhhhh] Der Gildenmeister Nyah(Stufe 2) Angriffskraft ¡æ [Wolves] Verteidiger Ward
+< Der Basispunkt +2, Der Bonus mit Gildenmeister +1, Der Verteidigungsbonus +1 >
+
+[ShapeYou]  Berserker(Stufe 2) Angriffskraft ¡æ [Fear] Der Gildenmeister Hulkhodn
+< Der Basispunkt +2 >
+
+[Immortal]  SilverKing(Stufe 2) Angriffskraft ¡æ [ShapeYou]  Leftside
+< Der Basispunkt +2 >
+
+[Bootylicious]  Kuroe(Stufe 2) Angriffskraft ¡æ [ShapeYou] Der Gildenmeister Aff3e
+< Der Basispunkt +2 >
+
+[Mythic]  Heresia(Stufe 2) Angriffskraft ¡æ [Fear]  Epalisk
+< Der Basispunkt +2 >
+
+[asddfasfd] Der Gildenmeister Astaire(Stufe 2) Angriffskraft ¡æ [Fear]  Amphiiii
+< Der Basispunkt +2, Der Bonus mit Gildenmeister +1 >
+
+[Immortal] Der Gildenmeister Biti(Stufe 2) Angriffskraft ¡æ [ShapeYou]  Extrakt
+< Der Basispunkt +2, Der Bonus mit Gildenmeister +1 >
+
+[Mythic] Der Gildenmeister Quez(Stufe 2) Angriffskraft ¡æ [hhhhhhhhhhhhhhh]  Kikyo
+< Der Basispunkt +2, Der Bonus mit Gildenmeister +1 >
+
+[Havanna]  Shikku(Stufe 2) Angriffskraft ¡æ [Viciouz] Der Gildenmeister jazon
+< Der Basispunkt +2 >
+
+[Havanna]  Akumii(Stufe 2) Angriffskraft ¡æ [ShapeYou]  Leftside
+< Der Basispunkt +2 >
+
+[Immortal]  Amunra(Stufe 2) Angriffskraft ¡æ [Havanna] Verteidiger Shikku
+< Der Basispunkt +2, Der Verteidigungsbonus +1 >
+
+[Havanna] Der Gildenmeister Meeresfrucht(Stufe 2) Angriffskraft ¡æ [ShapeYou] Der Gildenmeister Aff3e
+< Der Basispunkt +2, Der Bonus mit Gildenmeister +1 >
+
+[Immortal]  Amunra(Stufe 2) Angriffskraft ¡æ [Fear]  Arce
+< Der Basispunkt +2 >
+
+[ShapeYou]  Extrakt(Stufe 2) Angriffskraft ¡æ [PopularLoner] Verteidiger Avenue
+< Der Basispunkt +2, Der Verteidigungsbonus +1 >
+
+[ShapeYou]  Berserker(Stufe 2) Angriffskraft ¡æ [Immortal] Verteidiger Rodopushin
+< Der Basispunkt +2, Der Verteidigungsbonus +1 >
+
+[Bootylicious]  Kuroe(Stufe 2) Angriffskraft ¡æ [Mythic] Der Gildenmeister Quez
+< Der Basispunkt +2 >
+
+[Immortal]  SilverKing(Stufe 2) Angriffskraft ¡æ [Fear]  Amphiiii
+< Der Basispunkt +2 >
+
+[hhhhhhhhhhhhhhh]  Kikyo(Stufe 2) Angriffskraft ¡æ [Immortal]  SilverKing
+< Der Basispunkt +2 >
+
+[Fear]  Epalisk(Stufe 2) Angriffskraft ¡æ [ShapeYou] Der Gildenmeister Aff3e
+< Der Basispunkt +2 >
+
+[Mythic]  Heresia(Stufe 2) Angriffskraft ¡æ [Fear] Der Gildenmeister Hulkhodn
+< Der Basispunkt +2 >
+
+[Fear]  Arce(Stufe 2) Angriffskraft ¡æ [Viciouz] Der Gildenmeister jazon
+< Der Basispunkt +2 >
+
+[hhhhhhhhhhhhhhh]  Kikyo(Stufe 2) Angriffskraft ¡æ [Havanna]  Acai
+< Der Basispunkt +2 >
+
+[PopularLoner]  Lore(Stufe 2) Angriffskraft ¡æ [Mythic] Verteidiger Cuculi
+< Der Basispunkt +2, Der Verteidigungsbonus +1 >
+
+[ShapeYou]  Extrakt(Stufe 2) Angriffskraft ¡æ [Havanna] Der Gildenmeister Meeresfrucht
+< Der Basispunkt +2 >
+
+[Havanna]  Shikku(Stufe 2) Angriffskraft ¡æ [hhhhhhhhhhhhhhh]  Kikyo
+< Der Basispunkt +2 >
+
+[ShapeYou]  Berserker(Stufe 2) Angriffskraft ¡æ [Wolves] Verteidiger Ward
+< Der Basispunkt +2, Der Verteidigungsbonus +1 >
+
+[hhhhhhhhhhhhhhh] Der Gildenmeister Nyah(Stufe 2) Angriffskraft ¡æ [Fear] Verteidiger saiyaa
+< Der Basispunkt +2, Der Bonus mit Gildenmeister +1, Der Verteidigungsbonus +1 >
+
+[asddfasfd] Der Gildenmeister Astaire(Stufe 2) Angriffskraft ¡æ [Fear]  Epalisk
+< Der Basispunkt +2, Der Bonus mit Gildenmeister +1 >
+
+[Bootylicious]  Kuroe(Stufe 2) Angriffskraft ¡æ [Mythic]  Vegeta
+< Der Basispunkt +2 >
+
+[PopularLoner]  Lore(Stufe 2) Angriffskraft ¡æ [Fear]  Amphiiii
+< Der Basispunkt +2 >
+
+[Viciouz] Der Gildenmeister jazon(Stufe 2) Angriffskraft ¡æ [Immortal] Verteidiger Rodopushin
+< Der Basispunkt +2, Der Bonus mit Gildenmeister +1, Der Verteidigungsbonus +1 >
+
+[Fear]  Epalisk(Stufe 2) Angriffskraft ¡æ [asddfasfd] Verteidiger Astaire
+< Der Basispunkt +2, Der Verteidigungsbonus +1 >
+
+[ShapeYou] Der Gildenmeister Aff3e(Stufe 2) Angriffskraft ¡æ [hhhhhhhhhhhhhhh]  Kikyo
+< Der Basispunkt +2, Der Bonus mit Gildenmeister +1 >
+
+[ShapeYou]  Berserker(Stufe 2) Angriffskraft ¡æ [Fear] Der Gildenmeister Hulkhodn
+< Der Basispunkt +2 >
+
+[Havanna]  Akumii(Stufe 2) Angriffskraft ¡æ [ShapeYou] Verteidiger Shuego
+< Der Basispunkt +2, Der Verteidigungsbonus +1 >
+
+[Havanna]  Vlad(Stufe 2) Angriffskraft ¡æ [ShapeYou]  Berserker
+< Der Basispunkt +2 >
+
+[ShapeYou]  Extrakt(Stufe 2) Angriffskraft ¡æ [Havanna]  Vlad
+< Der Basispunkt +2 >
+
+[Immortal]  Tricky(Stufe 2) Angriffskraft ¡æ [Viciouz] Der Gildenmeister jazon
+< Der Basispunkt +2 >
+
+[Wolves] Der Gildenmeister Ward(Stufe 2) Angriffskraft ¡æ [ShapeYou]  Extrakt
+< Der Basispunkt +2, Der Bonus mit Gildenmeister +1 >
+
+[Mythic]  Heresia(Stufe 2) Angriffskraft ¡æ [Wolves] Verteidiger Ward
+< Der Basispunkt +2, Der Verteidigungsbonus +1 >
+
+[Havanna]  Acai(Stufe 2) Angriffskraft ¡æ [Mythic]  Heresia
+< Der Basispunkt +2 >
+
+[ShapeYou]  Leftside(Stufe 2) Angriffskraft ¡æ [Bootylicious]  Kuroe
+< Der Basispunkt +2 >
+
+[hhhhhhhhhhhhhhh]  Kikyo(Stufe 2) Angriffskraft ¡æ [Immortal]  Tricky
+< Der Basispunkt +2 >
+
+[Immortal]  Amunra(Stufe 2) Angriffskraft ¡æ [hhhhhhhhhhhhhhh]  Kikyo
+< Der Basispunkt +2 >
+
+[Fear]  Epalisk(Stufe 2) Angriffskraft ¡æ [ShapeYou]  Extrakt
+< Der Basispunkt +2 >
+
+[asddfasfd] Der Gildenmeister Astaire(Stufe 2) Angriffskraft ¡æ [Saiyajins] Verteidiger Gismoe
+< Der Basispunkt +2, Der Bonus mit Gildenmeister +1, Der Verteidigungsbonus +1 >
+
+[Wolves] Der Gildenmeister Ward(Stufe 2) Angriffskraft ¡æ [ShapeYou]  Berserker
+< Der Basispunkt +2, Der Bonus mit Gildenmeister +1 >
+
+[Immortal]  SilverKing(Stufe 2) Angriffskraft ¡æ [Wolves] Verteidiger Ward
+< Der Basispunkt +2, Der Verteidigungsbonus +1 >
+
+[Immortal]  Amunra(Stufe 2) Angriffskraft ¡æ [Fear]  Arce
+< Der Basispunkt +2 >
+
+[Havanna]  Acai(Stufe 2) Angriffskraft ¡æ [Mythic]  Heresia
+< Der Basispunkt +2 >
+
+[Immortal]  SilverKing(Stufe 2) Angriffskraft ¡æ [Fear]  Amphiiii
+< Der Basispunkt +2 >
+
+[Immortal]  Amunra(Stufe 2) Angriffskraft ¡æ [hhhhhhhhhhhhhhh]  Kikyo
+< Der Basispunkt +2 >
+
+[Havanna]  Shikku(Stufe 2) Angriffskraft ¡æ [Viciouz] Der Gildenmeister jazon
+< Der Basispunkt +2 >
+
+[ShapeYou] Der Gildenmeister Aff3e(Stufe 2) Angriffskraft ¡æ [Fear] Der Gildenmeister Hulkhodn
+< Der Basispunkt +2, Der Bonus mit Gildenmeister +1 >
+
+[Immortal]  SilverKing(Stufe 2) Angriffskraft ¡æ [Havanna]  Acai
+< Der Basispunkt +2 >
+
+[Fear]  saiyaa(Stufe 2) Angriffskraft ¡æ [ShapeYou]  Leftside
+< Der Basispunkt +2 >
+
+[ShapeYou]  Berserker(Stufe 2) Angriffskraft ¡æ [Fear]  Arce
+< Der Basispunkt +2 >
+
+[ShapeYou] Der Gildenmeister Aff3e(Stufe 2) Angriffskraft ¡æ [PopularLoner]  Lore
+< Der Basispunkt +2, Der Bonus mit Gildenmeister +1 >
+
+[Havanna] Der Gildenmeister Meeresfrucht(Stufe 2) Angriffskraft ¡æ [ShapeYou] Der Gildenmeister Aff3e
+< Der Basispunkt +2, Der Bonus mit Gildenmeister +1 >
+
+[hhhhhhhhhhhhhhh]  Kikyo(Stufe 2) Angriffskraft ¡æ [Fear]  Amphiiii
+< Der Basispunkt +2, Der Wiederbelebungsbonus +1 >
+
+[hhhhhhhhhhhhhhh]  Kikyo(Stufe 2) Angriffskraft ¡æ [Immortal]  Amunra
+< Der Basispunkt +2, Der Wiederbelebungsbonus +1 >
+
+[Immortal]  SilverKing(Stufe 2) Angriffskraft ¡æ [hhhhhhhhhhhhhhh]  Kikyo
+< Der Basispunkt +2 >
+
+[Mythic]  Heresia(Stufe 2) Angriffskraft ¡æ [Bootylicious] Der Gildenmeister Melon
+< Der Basispunkt +2 >
+
+[Havanna]  Akumii(Stufe 2) Angriffskraft ¡æ [Mythic]  Beastyquty
+< Der Basispunkt +2 >
+
+[Immortal]  SilverKing(Stufe 2) Angriffskraft ¡æ [hhhhhhhhhhhhhhh] Der Gildenmeister Nyah
+< Der Basispunkt +2 >
+
+[ShapeYou]  Extrakt(Stufe 2) Angriffskraft ¡æ [Havanna]  Akumii
+< Der Basispunkt +2 >
+
+[Havanna] Der Gildenmeister Meeresfrucht(Stufe 2) Angriffskraft ¡æ [Viciouz] Der Gildenmeister jazon
+< Der Basispunkt +2, Der Bonus mit Gildenmeister +1 >
+
+[Havanna]  Vlad(Stufe 2) Angriffskraft ¡æ [Mythic] Der Gildenmeister Quez
+< Der Basispunkt +2 >
+
+[ShapeYou]  Leftside(Stufe 2) Angriffskraft ¡æ [Fear]  Arce
+< Der Basispunkt +2 >
+
+[Duesenflitzer] Der Gildenmeister Monsti(Stufe 2) Angriffskraft ¡æ [ShapeYou]  Berserker
+< Der Basispunkt +2, Der Bonus mit Gildenmeister +1 >
+
+[Havanna]  Vlad(Stufe 2) Angriffskraft ¡æ [Fear]  Amphiiii
+< Der Basispunkt +2 >
+
+[Havanna]  Shikku(Stufe 2) Angriffskraft ¡æ [Mythic]  Vegeta
+< Der Basispunkt +2 >
+
+[PopularLoner]  CaptainSabotage(Stufe 2) Angriffskraft ¡æ [Mythic]  Heresia
+< Der Basispunkt +2 >
+
+[Fear]  Arce(Stufe 2) Angriffskraft ¡æ [ShapeYou] Der Gildenmeister Aff3e
+< Der Basispunkt +2 >
+
+[Saiyajins] Der Gildenmeister Gismoe(Stufe 2) Angriffskraft ¡æ [Fear]  Arce
+< Der Basispunkt +2, Der Bonus mit Gildenmeister +1 >
+
+[Fear] Der Gildenmeister Hulkhodn(Stufe 2) Angriffskraft ¡æ [Wolves] Verteidiger Ward
+< Der Basispunkt +2, Der Bonus mit Gildenmeister +1, Der Verteidigungsbonus +1 >
+
+[Immortal]  SilverKing(Stufe 2) Angriffskraft ¡æ [Fear]  Amphiiii
+< Der Basispunkt +2 >
+
+[ShapeYou]  Shuego(Stufe 2) Angriffskraft ¡æ [Fear] Der Gildenmeister Hulkhodn
+< Der Basispunkt +2 >
+
+[Immortal]  Amunra(Stufe 2) Angriffskraft ¡æ [hhhhhhhhhhhhhhh] Der Gildenmeister Nyah
+< Der Basispunkt +2 >
+
+[ShapeYou]  Leftside(Stufe 2) Angriffskraft ¡æ [Fear]  Epalisk
+< Der Basispunkt +2 >
+
+[Immortal]  Rodopushin(Stufe 2) Angriffskraft ¡æ [asddfasfd] Verteidiger Astaire
+< Der Basispunkt +2, Der Verteidigungsbonus +1 >
+
+[Havanna]  Shikku(Stufe 2) Angriffskraft ¡æ [Mythic] Verteidiger Cuculi
+< Der Basispunkt +2, Der Verteidigungsbonus +1 >
+
+[Saiyajins] Der Gildenmeister Gismoe(Stufe 2) Angriffskraft ¡æ [Havanna] Verteidiger Shikku
+< Der Basispunkt +2, Der Bonus mit Gildenmeister +1, Der Verteidigungsbonus +1 >
+
+[Mythic]  Beastyquty(Stufe 2) Angriffskraft ¡æ [Fear]  Arce
+< Der Basispunkt +2 >
+
+[ShapeYou]  Berserker(Stufe 2) Angriffskraft ¡æ [Fear] Verteidiger saiyaa
+< Der Basispunkt +2, Der Verteidigungsbonus +1 >
+
+[Mythic]  Heresia(Stufe 2) Angriffskraft ¡æ [ShapeYou]  Berserker
+< Der Basispunkt +2 >
+
+[Mythic]  Beastyquty(Stufe 2) Angriffskraft ¡æ [Fear]  Amphiiii
+< Der Basispunkt +2 >
+
+[Immortal]  SilverKing(Stufe 2) Angriffskraft ¡æ [Wolves] Verteidiger Ward
+< Der Basispunkt +2, Der Verteidigungsbonus +1 >
+
+[Immortal]  SilverKing(Stufe 2) Angriffskraft ¡æ [Fear]  Epalisk
+< Der Basispunkt +2 >
+
+[hhhhhhhhhhhhhhh] Der Gildenmeister Nyah(Stufe 2) Angriffskraft ¡æ [Immortal]  SilverKing
+< Der Basispunkt +2, Der Bonus mit Gildenmeister +1 >
+
+[Saiyajins] Der Gildenmeister Gismoe(Stufe 2) Angriffskraft ¡æ [PopularLoner]  Lore
+< Der Basispunkt +2, Der Bonus mit Gildenmeister +1 >
+
+[PopularLoner]  Avenue(Stufe 2) Angriffskraft ¡æ [Mythic] Verteidiger Cuculi
+< Der Basispunkt +2, Der Verteidigungsbonus +1 >
+
+[Immortal]  Amunra(Stufe 2) Angriffskraft ¡æ [Viciouz] Der Gildenmeister jazon
+< Der Basispunkt +2 >
+
+[ShapeYou] Der Gildenmeister Aff3e(Stufe 2) Angriffskraft ¡æ [Fear]  Amphiiii
+< Der Basispunkt +2, Der Bonus mit Gildenmeister +1 >
+
+[Immortal]  Amunra(Stufe 2) Angriffskraft ¡æ [Fear] Der Gildenmeister Hulkhodn
+< Der Basispunkt +2 >
+
+[ShapeYou]  Shuego(Stufe 2) Angriffskraft ¡æ [Havanna]  Acai
+< Der Basispunkt +2 >
+
+[Havanna]  Akumii(Stufe 2) Angriffskraft ¡æ [ShapeYou]  Extrakt
+< Der Basispunkt +2 >
+
+[asddfasfd] Der Gildenmeister Astaire(Stufe 2) Angriffskraft ¡æ [Fear]  Arce
+< Der Basispunkt +2, Der Bonus mit Gildenmeister +1 >
+
+[ShapeYou]  Leftside(Stufe 2) Angriffskraft ¡æ [Wolves] Verteidiger Ward
+< Der Basispunkt +2, Der Verteidigungsbonus +1 >
+
+[Immortal]  Rodopushin(Stufe 2) Angriffskraft ¡æ [Mythic]  Beastyquty
+< Der Basispunkt +2 >
+
+[ShapeYou]  Berserker(Stufe 2) Angriffskraft ¡æ [Fear]  Epalisk
+< Der Basispunkt +2 >
+
+[ShapeYou] Der Gildenmeister Aff3e(Stufe 2) Angriffskraft ¡æ [Fear] Verteidiger saiyaa
+< Der Basispunkt +2, Der Bonus mit Gildenmeister +1, Der Verteidigungsbonus +1 >
+
+[Fear] Der Gildenmeister Hulkhodn(Stufe 2) Angriffskraft ¡æ [Mythic]  Heresia
+< Der Basispunkt +2, Der Bonus mit Gildenmeister +1 >
+
+[ShapeYou] Der Gildenmeister Aff3e(Stufe 2) Angriffskraft ¡æ [Fear] Der Gildenmeister Hulkhodn
+< Der Basispunkt +2, Der Bonus mit Gildenmeister +1 >
+
+[Immortal]  SilverKing(Stufe 2) Angriffskraft ¡æ [Fear]  Arce
+< Der Basispunkt +2 >
+
+[hhhhhhhhhhhhhhh] Der Gildenmeister Nyah(Stufe 2) Angriffskraft ¡æ [Immortal]  SilverKing
+< Der Basispunkt +2, Der Bonus mit Gildenmeister +1 >
+
+[Immortal] Der Gildenmeister Biti(Stufe 2) Angriffskraft ¡æ [ShapeYou] Der Gildenmeister Aff3e
+< Der Basispunkt +2, Der Bonus mit Gildenmeister +1 >
+
+[asddfasfd] Der Gildenmeister Astaire(Stufe 2) Angriffskraft ¡æ [hhhhhhhhhhhhhhh] Der Gildenmeister Nyah
+< Der Basispunkt +2, Der Bonus mit Gildenmeister +1 >
+
+[Wolves] Der Gildenmeister Ward(Stufe 2) Angriffskraft ¡æ [asddfasfd] Verteidiger Astaire
+< Der Basispunkt +2, Der Bonus mit Gildenmeister +1, Der Verteidigungsbonus +1 >
+
+[ShapeYou]  Leftside(Stufe 2) Angriffskraft ¡æ [Fear]  Epalisk
+< Der Basispunkt +2 >
+
+[Havanna]  Vlad(Stufe 2) Angriffskraft ¡æ [Mythic]  Vegeta
+< Der Basispunkt +2 >
+
+[ShapeYou]  Berserker(Stufe 2) Angriffskraft ¡æ [Fear] Der Gildenmeister Hulkhodn
+< Der Basispunkt +2 >
+
+[Fear]  Arce(Stufe 2) Angriffskraft ¡æ [ShapeYou]  Berserker
+< Der Basispunkt +2 >
+
+[Havanna]  Akumii(Stufe 2) Angriffskraft ¡æ [ShapeYou]  Extrakt
+< Der Basispunkt +2 >
+
+[Mythic]  Cuculi(Stufe 2) Angriffskraft ¡æ [Fear] Verteidiger saiyaa
+< Der Basispunkt +2, Der Verteidigungsbonus +1 >
+
+[Havanna] Der Gildenmeister Meeresfrucht(Stufe 2) Angriffskraft ¡æ [Mythic]  Heresia
+< Der Basispunkt +2, Der Bonus mit Gildenmeister +1 >
+
+[Immortal]  SilverKing(Stufe 2) Angriffskraft ¡æ [Fear]  Arce
+< Der Basispunkt +2 >
+
+[Immortal]  SilverKing(Stufe 2) Angriffskraft ¡æ [hhhhhhhhhhhhhhh] Der Gildenmeister Nyah
+< Der Basispunkt +2 >
+
+[PopularLoner]  CaptainSabotage(Stufe 2) Angriffskraft ¡æ [ShapeYou]  Extrakt
+< Der Basispunkt +2 >
+
+[PopularLoner]  Lore(Stufe 2) Angriffskraft ¡æ [Mythic]  Heresia
+< Der Basispunkt +2 >
+
+[Immortal]  SilverKing(Stufe 2) Angriffskraft ¡æ [Fear]  Arce
+< Der Basispunkt +2 >
+
+[Saiyajins] Der Gildenmeister Gismoe(Stufe 2) Angriffskraft ¡æ [PopularLoner]  CaptainSabotage
+< Der Basispunkt +2, Der Bonus mit Gildenmeister +1 >
+
+[Fear]  saiyaa(Stufe 2) Angriffskraft ¡æ [Saiyajins] Verteidiger Gismoe
+< Der Basispunkt +2, Der Verteidigungsbonus +1 >
+
+[ShapeYou]  Berserker(Stufe 2) Angriffskraft ¡æ [Havanna] Der Gildenmeister Meeresfrucht
+< Der Basispunkt +2 >
+
+[Mythic] Der Gildenmeister Quez(Stufe 2) Angriffskraft ¡æ [Bootylicious]  Kuroe
+< Der Basispunkt +2, Der Bonus mit Gildenmeister +1 >
+
+[ShapeYou] Der Gildenmeister Aff3e(Stufe 2) Angriffskraft ¡æ [Havanna]  Akumii
+< Der Basispunkt +2, Der Bonus mit Gildenmeister +1 >
+
+[Havanna]  Acai(Stufe 2) Angriffskraft ¡æ [ShapeYou] Der Gildenmeister Aff3e
+< Der Basispunkt +2 >
+
+[Viciouz] Der Gildenmeister jazon(Stufe 2) Angriffskraft ¡æ [Bootylicious] Der Gildenmeister Melon
+< Der Basispunkt +2, Der Bonus mit Gildenmeister +1 >
+
+[asddfasfd] Der Gildenmeister Astaire(Stufe 2) Angriffskraft ¡æ [Immortal] Verteidiger Rodopushin
+< Der Basispunkt +2, Der Bonus mit Gildenmeister +1, Der Verteidigungsbonus +1 >
+
+[Mythic]  Beastyquty(Stufe 2) Angriffskraft ¡æ [PopularLoner]  CaptainSabotage
+< Der Basispunkt +2 >
+
+[ShapeYou]  Extrakt(Stufe 2) Angriffskraft ¡æ [Havanna]  Vlad
+< Der Basispunkt +2 >
+
+[Havanna]  Acai(Stufe 2) Angriffskraft ¡æ [Mythic]  Beastyquty
+< Der Basispunkt +2 >
+
+[Saiyajins] Der Gildenmeister Gismoe(Stufe 2) Angriffskraft ¡æ [PopularLoner]  Lore
+< Der Basispunkt +2, Der Bonus mit Gildenmeister +1 >
+
+[hhhhhhhhhhhhhhh] Der Gildenmeister Nyah(Stufe 2) Angriffskraft ¡æ [Fear]  Epalisk
+< Der Basispunkt +2, Der Bonus mit Gildenmeister +1 >
+
+[Mythic]  Vegeta(Stufe 2) Angriffskraft ¡æ [Fear] Der Gildenmeister Hulkhodn
+< Der Basispunkt +2 >
+
+[ShapeYou]  Berserker(Stufe 2) Angriffskraft ¡æ [Havanna] Verteidiger Shikku
+< Der Basispunkt +2, Der Verteidigungsbonus +1 >
+
+[Bootylicious]  Kuroe(Stufe 2) Angriffskraft ¡æ [Mythic] Verteidiger Cuculi
+< Der Basispunkt +2, Der Verteidigungsbonus +1 >
+
+[ShapeYou]  Shuego(Stufe 2) Angriffskraft ¡æ [Immortal]  Tricky
+< Der Basispunkt +2 >
+
+[Mythic]  Heresia(Stufe 2) Angriffskraft ¡æ [Wolves] Verteidiger Ward
+< Der Basispunkt +2, Der Verteidigungsbonus +1 >
+
+[Immortal]  SilverKing(Stufe 2) Angriffskraft ¡æ [Mythic]  Heresia
+< Der Basispunkt +2 >
+
+[Fear]  Epalisk(Stufe 2) Angriffskraft ¡æ [Mythic]  Vegeta
+< Der Basispunkt +2 >
+
+[Immortal] Der Gildenmeister Biti(Stufe 2) Angriffskraft ¡æ [ShapeYou]  Leftside
+< Der Basispunkt +2, Der Bonus mit Gildenmeister +1 >
+
+[Saiyajins] Der Gildenmeister Gismoe(Stufe 2) Angriffskraft ¡æ [Fear]  Epalisk
+< Der Basispunkt +2, Der Bonus mit Gildenmeister +1 >
+
+[ShapeYou] Der Gildenmeister Aff3e(Stufe 2) Angriffskraft ¡æ [Immortal]  SilverKing
+< Der Basispunkt +2, Der Bonus mit Gildenmeister +1 >
+
+[asddfasfd] Der Gildenmeister Astaire(Stufe 2) Angriffskraft ¡æ [ShapeYou] Der Gildenmeister Aff3e
+< Der Basispunkt +2, Der Bonus mit Gildenmeister +1 >
+
+[PopularLoner]  Avenue(Stufe 2) Angriffskraft ¡æ [Duesenflitzer] Verteidiger Monsti
+< Der Basispunkt +2, Der Verteidigungsbonus +1 >
+
+[ShapeYou]  Extrakt(Stufe 2) Angriffskraft ¡æ [Havanna]  Akumii
+< Der Basispunkt +2 >
+
+[Mythic]  Heresia(Stufe 2) Angriffskraft ¡æ [PopularLoner]  CaptainSabotage
+< Der Basispunkt +2 >
+
+[Saiyajins] Der Gildenmeister Gismoe(Stufe 2) Angriffskraft ¡æ [PopularLoner]  Lore
+< Der Basispunkt +2, Der Bonus mit Gildenmeister +1 >
+
+[Havanna]  Shikku(Stufe 2) Angriffskraft ¡æ [ShapeYou]  Leftside
+< Der Basispunkt +2 >
+
+[ShapeYou] Der Gildenmeister Aff3e(Stufe 2) Angriffskraft ¡æ [Fear] Verteidiger saiyaa
+< Der Basispunkt +2, Der Bonus mit Gildenmeister +1, Der Verteidigungsbonus +1 >
+
+[Mythic]  Beastyquty(Stufe 2) Angriffskraft ¡æ [Havanna] Verteidiger Shikku
+< Der Basispunkt +2, Der Verteidigungsbonus +1 >
+
+[Viciouz] Der Gildenmeister jazon(Stufe 2) Angriffskraft ¡æ [Immortal]  Tricky
+< Der Basispunkt +2, Der Bonus mit Gildenmeister +1 >
+
+[Mythic]  Beastyquty(Stufe 2) Angriffskraft ¡æ [Immortal]  Amunra
+< Der Basispunkt +2 >
+
+[Havanna]  Vlad(Stufe 2) Angriffskraft ¡æ [Mythic]  Beastyquty
+< Der Basispunkt +2 >
+
+[ShapeYou]  Berserker(Stufe 2) Angriffskraft ¡æ [Immortal] Verteidiger Rodopushin
+< Der Basispunkt +2, Der Verteidigungsbonus +1 >
+
+[Mythic]  Heresia(Stufe 2) Angriffskraft ¡æ [Fear]  Epalisk
+< Der Basispunkt +2 >
+
+[Mythic]  Cuculi(Stufe 2) Angriffskraft ¡æ [PopularLoner]  Lore
+< Der Basispunkt +2 >
+
+[Havanna]  Vlad(Stufe 2) Angriffskraft ¡æ [Mythic] Verteidiger Cuculi
+< Der Basispunkt +2, Der Verteidigungsbonus +1 >
+
+[PopularLoner]  CaptainSabotage(Stufe 2) Angriffskraft ¡æ [Mythic]  Vegeta
+< Der Basispunkt +2 >
+
+[Immortal]  Tricky(Stufe 2) Angriffskraft ¡æ [Viciouz] Der Gildenmeister jazon
+< Der Basispunkt +2 >
+
+[Havanna]  Akumii(Stufe 2) Angriffskraft ¡æ [Mythic]  Beastyquty
+< Der Basispunkt +2 >
+
+[Fear]  saiyaa(Stufe 2) Angriffskraft ¡æ [Mythic]  Heresia
+< Der Basispunkt +2 >
+
+[ShapeYou]  Extrakt(Stufe 2) Angriffskraft ¡æ [Havanna]  Akumii
+< Der Basispunkt +2 >
+
+[ShapeYou] Der Gildenmeister Aff3e(Stufe 2) Angriffskraft ¡æ [Fear] Verteidiger saiyaa
+< Der Basispunkt +2, Der Bonus mit Gildenmeister +1, Der Verteidigungsbonus +1 >
+
+[ShapeYou]  Leftside(Stufe 2) Angriffskraft ¡æ [Fear] Der Gildenmeister Hulkhodn
+< Der Basispunkt +2 >
+
+[Havanna]  Vlad(Stufe 2) Angriffskraft ¡æ [PopularLoner] Verteidiger Avenue
+< Der Basispunkt +2, Der Verteidigungsbonus +1 >
+
+[Havanna] Der Gildenmeister Meeresfrucht(Stufe 2) Angriffskraft ¡æ [ShapeYou] Der Gildenmeister Aff3e
+< Der Basispunkt +2, Der Bonus mit Gildenmeister +1 >
+
+[Havanna]  Shikku(Stufe 2) Angriffskraft ¡æ [Mythic] Verteidiger Cuculi
+< Der Basispunkt +2, Der Verteidigungsbonus +1 >
+
+[Mythic]  Beastyquty(Stufe 2) Angriffskraft ¡æ [Havanna] Verteidiger Shikku
+< Der Basispunkt +2, Der Verteidigungsbonus +1 >
+
+[Havanna]  Acai(Stufe 2) Angriffskraft ¡æ [Mythic]  Heresia
+< Der Basispunkt +2 >
+
+[Mythic] Der Gildenmeister Quez(Stufe 2) Angriffskraft ¡æ [PopularLoner]  CaptainSabotage
+< Der Basispunkt +2, Der Bonus mit Gildenmeister +1 >
+
+[Immortal]  Rodopushin(Stufe 2) Angriffskraft ¡æ [ShapeYou]  Berserker
+< Der Basispunkt +2 >
+
+[Immortal]  SilverKing(Stufe 2) Angriffskraft ¡æ [Fear]  Epalisk
+< Der Basispunkt +2 >
+
+[ShapeYou] Der Gildenmeister Aff3e(Stufe 2) Angriffskraft ¡æ [Havanna]  Vlad
+< Der Basispunkt +2, Der Bonus mit Gildenmeister +1 >
+
+[Havanna]  Acai(Stufe 2) Angriffskraft ¡æ [ShapeYou] Der Gildenmeister Aff3e
+< Der Basispunkt +2 >
+
+[Immortal] Der Gildenmeister Biti(Stufe 2) Angriffskraft ¡æ [hhhhhhhhhhhhhhh] Der Gildenmeister Nyah
+< Der Basispunkt +2, Der Bonus mit Gildenmeister +1 >
+
+[Havanna] Der Gildenmeister Meeresfrucht(Stufe 2) Angriffskraft ¡æ [Saiyajins] Verteidiger Gismoe
+< Der Basispunkt +2, Der Bonus mit Gildenmeister +1, Der Verteidigungsbonus +1 >
+
+[Fear] Der Gildenmeister Hulkhodn(Stufe 2) Angriffskraft ¡æ [Immortal]  Amunra
+< Der Basispunkt +2, Der Bonus mit Gildenmeister +1 >
+
+[Duesenflitzer] Der Gildenmeister Monsti(Stufe 2) Angriffskraft ¡æ [asddfasfd] Verteidiger Astaire
+< Der Basispunkt +2, Der Bonus mit Gildenmeister +1, Der Verteidigungsbonus +1 >
+
+[ShapeYou]  Berserker(Stufe 2) Angriffskraft ¡æ [Wolves] Verteidiger Ward
+< Der Basispunkt +2, Der Verteidigungsbonus +1 >
+
+[PopularLoner]  Lore(Stufe 2) Angriffskraft ¡æ [Mythic] Der Gildenmeister Quez
+< Der Basispunkt +2 >
+
+[Fear]  saiyaa(Stufe 2) Angriffskraft ¡æ [ShapeYou]  Berserker
+< Der Basispunkt +2 >
+
+[Mythic]  Beastyquty(Stufe 2) Angriffskraft ¡æ [PopularLoner]  CaptainSabotage
+< Der Basispunkt +2 >
+
+[Bootylicious]  Kuroe(Stufe 2) Angriffskraft ¡æ [Mythic] Verteidiger Cuculi
+< Der Basispunkt +2, Der Verteidigungsbonus +1 >
+
+[Havanna] Der Gildenmeister Meeresfrucht(Stufe 2) Angriffskraft ¡æ [Mythic]  Beastyquty
+< Der Basispunkt +2, Der Bonus mit Gildenmeister +1 >
+
+[PopularLoner]  Avenue(Stufe 2) Angriffskraft ¡æ [Saiyajins] Verteidiger Gismoe
+< Der Basispunkt +2, Der Verteidigungsbonus +1 >
+
+[Immortal] Der Gildenmeister Biti(Stufe 2) Angriffskraft ¡æ [hhhhhhhhhhhhhhh] Der Gildenmeister Nyah
+< Der Basispunkt +2, Der Bonus mit Gildenmeister +1 >
+
+[Fear] Der Gildenmeister Hulkhodn(Stufe 2) Angriffskraft ¡æ [Mythic]  Heresia
+< Der Basispunkt +2, Der Bonus mit Gildenmeister +1 >
+
+[ShapeYou]  Berserker(Stufe 2) Angriffskraft ¡æ [Fear] Verteidiger saiyaa
+< Der Basispunkt +2, Der Verteidigungsbonus +1 >
+
+[Immortal]  Rodopushin(Stufe 2) Angriffskraft ¡æ [ShapeYou]  Berserker
+< Der Basispunkt +2 >
+
+[Mythic]  Vegeta(Stufe 2) Angriffskraft ¡æ [Immortal] Verteidiger Rodopushin
+< Der Basispunkt +2, Der Verteidigungsbonus +1 >
+
+[Immortal]  Amunra(Stufe 2) Angriffskraft ¡æ [Viciouz] Der Gildenmeister jazon
+< Der Basispunkt +2 >
+
+[Wolves] Der Gildenmeister Ward(Stufe 2) Angriffskraft ¡æ [Mythic] Verteidiger Cuculi
+< Der Basispunkt +2, Der Bonus mit Gildenmeister +1, Der Verteidigungsbonus +1 >
+
+[Havanna]  Shikku(Stufe 2) Angriffskraft ¡æ [Immortal]  Amunra
+< Der Basispunkt +2 >
+
+[Havanna]  Akumii(Stufe 2) Angriffskraft ¡æ [ShapeYou] Verteidiger Shuego
+< Der Basispunkt +2, Der Verteidigungsbonus +1 >
+
+[Havanna] Der Gildenmeister Meeresfrucht(Stufe 2) Angriffskraft ¡æ [Mythic]  Heresia
+< Der Basispunkt +2, Der Bonus mit Gildenmeister +1 >
+
+[Mythic]  Cuculi(Stufe 2) Angriffskraft ¡æ [PopularLoner]  Lore
+< Der Basispunkt +2 >
+
+[ShapeYou]  Berserker(Stufe 2) Angriffskraft ¡æ [PopularLoner]  CaptainSabotage
+< Der Basispunkt +2 >
+
+[Immortal]  Rodopushin(Stufe 2) Angriffskraft ¡æ [Viciouz] Der Gildenmeister jazon
+< Der Basispunkt +2 >
+
+[Bootylicious] Der Gildenmeister Melon(Stufe 2) Angriffskraft ¡æ [ShapeYou]  Berserker
+< Der Basispunkt +2, Der Bonus mit Gildenmeister +1 >
+
+[ShapeYou]  Extrakt(Stufe 2) Angriffskraft ¡æ [Bootylicious]  Kuroe
+< Der Basispunkt +2 >
+
+[Havanna] Der Gildenmeister Meeresfrucht(Stufe 2) Angriffskraft ¡æ [ShapeYou] Der Gildenmeister Aff3e
+< Der Basispunkt +2, Der Bonus mit Gildenmeister +1 >
+
+[ShapeYou]  Leftside(Stufe 2) Angriffskraft ¡æ [Immortal] Der Gildenmeister Biti
+< Der Basispunkt +2 >
+
+[Fear] Der Gildenmeister Hulkhodn(Stufe 2) Angriffskraft ¡æ [Mythic]  Beastyquty
+< Der Basispunkt +2, Der Bonus mit Gildenmeister +1 >
+
+[Mythic]  Heresia(Stufe 2) Angriffskraft ¡æ [Fear] Der Gildenmeister Hulkhodn
+< Der Basispunkt +2, Der Wiederbelebungsbonus +1 >
+
+[ShapeYou]  Berserker(Stufe 2) Angriffskraft ¡æ [Fear] Verteidiger saiyaa
+< Der Basispunkt +2, Der Verteidigungsbonus +1 >
+
+[Mythic]  Vegeta(Stufe 2) Angriffskraft ¡æ [Fear]  Epalisk
+< Der Basispunkt +2 >
+
+[ShapeYou] Der Gildenmeister Aff3e(Stufe 2) Angriffskraft ¡æ [Wolves] Verteidiger Ward
+< Der Basispunkt +2, Der Bonus mit Gildenmeister +1, Der Verteidigungsbonus +1, Der Wiederbelebungsbonus +1 >
+
+[Mythic]  Heresia(Stufe 2) Angriffskraft ¡æ [Immortal]  Tricky
+< Der Basispunkt +2, Der Wiederbelebungsbonus +1 >
+
+[asddfasfd] Der Gildenmeister Astaire(Stufe 2) Angriffskraft ¡æ [Fear] Der Gildenmeister Hulkhodn
+< Der Basispunkt +2, Der Bonus mit Gildenmeister +1 >
+
+[Bootylicious] Der Gildenmeister Melon(Stufe 2) Angriffskraft ¡æ [ShapeYou]  Extrakt
+< Der Basispunkt +2, Der Bonus mit Gildenmeister +1 >
+
+[Immortal]  SilverKing(Stufe 2) Angriffskraft ¡æ [asddfasfd] Verteidiger Astaire
+< Der Basispunkt +2, Der Verteidigungsbonus +1 >
+
+[Havanna]  Acai(Stufe 2) Angriffskraft ¡æ [Mythic]  Beastyquty
+< Der Basispunkt +2 >
+
+[ShapeYou]  Shuego(Stufe 2) Angriffskraft ¡æ [Havanna] Verteidiger Shikku
+< Der Basispunkt +2, Der Verteidigungsbonus +1 >
+
+[ShapeYou]  Leftside(Stufe 2) Angriffskraft ¡æ [Fear]  Epalisk
+< Der Basispunkt +2 >
+
+[hhhhhhhhhhhhhhh] Der Gildenmeister Nyah(Stufe 2) Angriffskraft ¡æ [ShapeYou]  Leftside
+< Der Basispunkt +2, Der Bonus mit Gildenmeister +1 >
+
+[ShapeYou] Der Gildenmeister Aff3e(Stufe 2) Angriffskraft ¡æ [hhhhhhhhhhhhhhh] Der Gildenmeister Nyah
+< Der Basispunkt +2, Der Bonus mit Gildenmeister +1, Der Wiederbelebungsbonus +1 >
+
+[Saiyajins] Der Gildenmeister Gismoe(Stufe 2) Angriffskraft ¡æ [Fear] Verteidiger saiyaa
+< Der Basispunkt +2, Der Bonus mit Gildenmeister +1, Der Verteidigungsbonus +1 >
+
+[Wolves] Der Gildenmeister Ward(Stufe 2) Angriffskraft ¡æ [ShapeYou]  Berserker
+< Der Basispunkt +2, Der Bonus mit Gildenmeister +1 >
+
+[Havanna] Der Gildenmeister Meeresfrucht(Stufe 2) Angriffskraft ¡æ [ShapeYou] Verteidiger Shuego
+< Der Basispunkt +2, Der Bonus mit Gildenmeister +1, Der Verteidigungsbonus +1 >
+
+[Saiyajins] Der Gildenmeister Gismoe(Stufe 2) Angriffskraft ¡æ [PopularLoner]  Lore
+< Der Basispunkt +2, Der Bonus mit Gildenmeister +1 >
+
+[PopularLoner]  Avenue(Stufe 2) Angriffskraft ¡æ [Saiyajins] Verteidiger Gismoe
+< Der Basispunkt +2, Der Verteidigungsbonus +1 >
+
+[Mythic]  Vegeta(Stufe 2) Angriffskraft ¡æ [Havanna]  Akumii
+< Der Basispunkt +2 >
+
+[Fear] Der Gildenmeister Hulkhodn(Stufe 2) Angriffskraft ¡æ [Mythic] Verteidiger Cuculi
+< Der Basispunkt +2, Der Bonus mit Gildenmeister +1, Der Verteidigungsbonus +1 >
+
+[ShapeYou] Der Gildenmeister Aff3e(Stufe 2) Angriffskraft ¡æ [Fear] Der Gildenmeister Hulkhodn
+< Der Basispunkt +2, Der Bonus mit Gildenmeister +1, Der Wiederbelebungsbonus +1 >
+
+[Mythic]  Heresia(Stufe 2) Angriffskraft ¡æ [Fear] Verteidiger saiyaa
+< Der Basispunkt +2, Der Verteidigungsbonus +1, Der Wiederbelebungsbonus +1 >
+
+[Fear]  Epalisk(Stufe 2) Angriffskraft ¡æ [ShapeYou]  Extrakt
+< Der Basispunkt +2 >
+
+[Immortal] Der Gildenmeister Biti(Stufe 2) Angriffskraft ¡æ [hhhhhhhhhhhhhhh] Der Gildenmeister Nyah
+< Der Basispunkt +2, Der Bonus mit Gildenmeister +1 >
+
+[Viciouz] Der Gildenmeister jazon(Stufe 2) Angriffskraft ¡æ [Bootylicious] Der Gildenmeister Melon
+< Der Basispunkt +2, Der Bonus mit Gildenmeister +1 >
+
+[PopularLoner]  Avenue(Stufe 2) Angriffskraft ¡æ [Mythic]  Heresia
+< Der Basispunkt +2 >
+
+[asddfasfd] Der Gildenmeister Astaire(Stufe 2) Angriffskraft ¡æ [Wolves] Verteidiger Ward
+< Der Basispunkt +2, Der Bonus mit Gildenmeister +1, Der Verteidigungsbonus +1 >
+
+[ShapeYou]  Extrakt(Stufe 2) Angriffskraft ¡æ [PopularLoner] Verteidiger Avenue
+< Der Basispunkt +2, Der Verteidigungsbonus +1 >
+
+[Havanna] Der Gildenmeister Meeresfrucht(Stufe 2) Angriffskraft ¡æ [Mythic]  Beastyquty
+< Der Basispunkt +2, Der Bonus mit Gildenmeister +1 >
+
+[Mythic]  Cuculi(Stufe 2) Angriffskraft ¡æ [asddfasfd] Verteidiger Astaire
+< Der Basispunkt +2, Der Verteidigungsbonus +1 >
+
+[ShapeYou]  Berserker(Stufe 2) Angriffskraft ¡æ [Fear]  Epalisk
+< Der Basispunkt +2 >
+
+[Immortal]  Rodopushin(Stufe 2) Angriffskraft ¡æ [ShapeYou]  Berserker
+< Der Basispunkt +2 >
+
+[ShapeYou] Der Gildenmeister Aff3e(Stufe 2) Angriffskraft ¡æ [Bootylicious]  Kuroe
+< Der Basispunkt +2, Der Bonus mit Gildenmeister +1, Der Wiederbelebungsbonus +1 >
+
+[Havanna]  Vlad(Stufe 2) Angriffskraft ¡æ [Mythic]  Vegeta
+< Der Basispunkt +2 >
+
+[Immortal]  Amunra(Stufe 2) Angriffskraft ¡æ [Fear] Der Gildenmeister Hulkhodn
+< Der Basispunkt +2 >
+
+[ShapeYou]  Extrakt(Stufe 2) Angriffskraft ¡æ [PopularLoner] Verteidiger Avenue
+< Der Basispunkt +2, Der Verteidigungsbonus +1 >
+
+[Havanna]  Acai(Stufe 2) Angriffskraft ¡æ [ShapeYou] Der Gildenmeister Aff3e
+< Der Basispunkt +2 >
+
+[Immortal]  Amunra(Stufe 2) Angriffskraft ¡æ [Fear] Verteidiger saiyaa
+< Der Basispunkt +2, Der Verteidigungsbonus +1 >
+
+[Immortal]  Rodopushin(Stufe 2) Angriffskraft ¡æ [ShapeYou]  Leftside
+< Der Basispunkt +2 >
+
+[Mythic] Der Gildenmeister Quez(Stufe 2) Angriffskraft ¡æ [Havanna]  Acai
+< Der Basispunkt +2, Der Bonus mit Gildenmeister +1 >
+
+[Havanna]  Shikku(Stufe 2) Angriffskraft ¡æ [Mythic] Der Gildenmeister Quez
+< Der Basispunkt +2 >
+
+[asddfasfd] Der Gildenmeister Astaire(Stufe 2) Angriffskraft ¡æ [Immortal] Verteidiger Rodopushin
+< Der Basispunkt +2, Der Bonus mit Gildenmeister +1, Der Verteidigungsbonus +1 >
+
+[ShapeYou]  Berserker(Stufe 2) Angriffskraft ¡æ [Fear]  Epalisk
+< Der Basispunkt +2 >
+
+[hhhhhhhhhhhhhhh] Der Gildenmeister Nyah(Stufe 2) Angriffskraft ¡æ [ShapeYou]  Berserker
+< Der Basispunkt +2, Der Bonus mit Gildenmeister +1 >
+
+[Immortal] Der Gildenmeister Biti(Stufe 2) Angriffskraft ¡æ [hhhhhhhhhhhhhhh] Der Gildenmeister Nyah
+< Der Basispunkt +2, Der Bonus mit Gildenmeister +1 >
+
+[Fear]  saiyaa(Stufe 2) Angriffskraft ¡æ [Saiyajins] Verteidiger Gismoe
+< Der Basispunkt +2, Der Verteidigungsbonus +1 >
+
+[ShapeYou]  Berserker(Stufe 2) Angriffskraft ¡æ [Fear] Verteidiger saiyaa
+< Der Basispunkt +2, Der Verteidigungsbonus +1 >
+
+[Mythic] Der Gildenmeister Quez(Stufe 2) Angriffskraft ¡æ [PopularLoner]  Lore
+< Der Basispunkt +2, Der Bonus mit Gildenmeister +1 >
+
+[ShapeYou]  Shuego(Stufe 2) Angriffskraft ¡æ [Fear]  Epalisk
+< Der Basispunkt +2 >
+
+[Fear] Der Gildenmeister Hulkhodn(Stufe 2) Angriffskraft ¡æ [Immortal] Verteidiger Rodopushin
+< Der Basispunkt +2, Der Bonus mit Gildenmeister +1, Der Verteidigungsbonus +1 >
+
+[Havanna]  Vlad(Stufe 2) Angriffskraft ¡æ [ShapeYou] Verteidiger Shuego
+< Der Basispunkt +2, Der Verteidigungsbonus +1 >
+
+[hhhhhhhhhhhhhhh] Der Gildenmeister Nyah(Stufe 2) Angriffskraft ¡æ [Fear] Der Gildenmeister Hulkhodn
+< Der Basispunkt +2, Der Bonus mit Gildenmeister +1 >
+
+[ShapeYou]  Leftside(Stufe 2) Angriffskraft ¡æ [Bootylicious]  Kuroe
+< Der Basispunkt +2 >
+
+[Immortal] Der Gildenmeister Biti(Stufe 2) Angriffskraft ¡æ [hhhhhhhhhhhhhhh] Der Gildenmeister Nyah
+< Der Basispunkt +2, Der Bonus mit Gildenmeister +1 >
+
+[Havanna]  Acai(Stufe 2) Angriffskraft ¡æ [Mythic]  Beastyquty
+< Der Basispunkt +2 >
+
+[Mythic]  Vegeta(Stufe 2) Angriffskraft ¡æ [Fear]  Epalisk
+< Der Basispunkt +2 >
+
+[Fear] Der Gildenmeister Hulkhodn(Stufe 2) Angriffskraft ¡æ [Mythic]  Vegeta
+< Der Basispunkt +2, Der Bonus mit Gildenmeister +1 >
+
+[asddfasfd] Der Gildenmeister Astaire(Stufe 2) Angriffskraft ¡æ [Fear] Verteidiger saiyaa
+< Der Basispunkt +2, Der Bonus mit Gildenmeister +1, Der Verteidigungsbonus +1 >
+
+[Havanna]  Shikku(Stufe 2) Angriffskraft ¡æ [ShapeYou]  Extrakt
+< Der Basispunkt +2 >
+
+[Immortal]  Tricky(Stufe 2) Angriffskraft ¡æ [ShapeYou]  Berserker
+< Der Basispunkt +2 >
+
+[Duesenflitzer] Der Gildenmeister Monsti(Stufe 2) Angriffskraft ¡æ [Havanna] Verteidiger Shikku
+< Der Basispunkt +2, Der Bonus mit Gildenmeister +1, Der Verteidigungsbonus +1 >
+
+[Viciouz] Der Gildenmeister jazon(Stufe 2) Angriffskraft ¡æ [Immortal] Der Gildenmeister Biti
+< Der Basispunkt +2, Der Bonus mit Gildenmeister +1 >
+
+[Immortal]  Rodopushin(Stufe 2) Angriffskraft ¡æ [Viciouz] Der Gildenmeister jazon
+< Der Basispunkt +2 >
+
+[ShapeYou]  Extrakt(Stufe 2) Angriffskraft ¡æ [Havanna] Der Gildenmeister Meeresfrucht
+< Der Basispunkt +2 >
+
+[ShapeYou]  Berserker(Stufe 2) Angriffskraft ¡æ [PopularLoner]  Lore
+< Der Basispunkt +2 >
+
+[Viciouz] Der Gildenmeister jazon(Stufe 2) Angriffskraft ¡æ [Fear] Verteidiger saiyaa
+< Der Basispunkt +2, Der Bonus mit Gildenmeister +1, Der Verteidigungsbonus +1 >
+
+[Havanna]  Shikku(Stufe 2) Angriffskraft ¡æ [ShapeYou]  Extrakt
+< Der Basispunkt +2 >
+
+[asddfasfd] Der Gildenmeister Astaire(Stufe 2) Angriffskraft ¡æ [Fear] Der Gildenmeister Hulkhodn
+< Der Basispunkt +2, Der Bonus mit Gildenmeister +1 >
+
+[Immortal] Der Gildenmeister Biti(Stufe 2) Angriffskraft ¡æ [hhhhhhhhhhhhhhh] Der Gildenmeister Nyah
+< Der Basispunkt +2, Der Bonus mit Gildenmeister +1 >
+
+[Mythic]  Vegeta(Stufe 2) Angriffskraft ¡æ [Fear]  Epalisk
+< Der Basispunkt +2 >
+
+[Fear]  saiyaa(Stufe 2) Angriffskraft ¡æ [Saiyajins] Verteidiger Gismoe
+< Der Basispunkt +2, Der Verteidigungsbonus +1 >
+
+[Mythic] Der Gildenmeister Quez(Stufe 2) Angriffskraft ¡æ [Fear] Verteidiger saiyaa
+< Der Basispunkt +2, Der Bonus mit Gildenmeister +1, Der Verteidigungsbonus +1 >
+
+[ShapeYou]  Extrakt(Stufe 2) Angriffskraft ¡æ [Havanna] Der Gildenmeister Meeresfrucht
+< Der Basispunkt +2 >
+
+[Havanna]  Vlad(Stufe 2) Angriffskraft ¡æ [Mythic] Der Gildenmeister Quez
+< Der Basispunkt +2 >
+
+[Mythic]  Vegeta(Stufe 2) Angriffskraft ¡æ [Fear] Der Gildenmeister Hulkhodn
+< Der Basispunkt +2 >
+
+[ShapeYou]  Leftside(Stufe 2) Angriffskraft ¡æ [Havanna]  Vlad
+< Der Basispunkt +2 >
+
+[Viciouz] Der Gildenmeister jazon(Stufe 2) Angriffskraft ¡æ [PopularLoner]  CaptainSabotage
+< Der Basispunkt +2, Der Bonus mit Gildenmeister +1 >
+
+[Mythic]  Cuculi(Stufe 2) Angriffskraft ¡æ [Immortal]  Tricky
+< Der Basispunkt +2 >
+
+[Havanna] Der Gildenmeister Meeresfrucht(Stufe 2) Angriffskraft ¡æ [ShapeYou] Verteidiger Shuego
+< Der Basispunkt +2, Der Bonus mit Gildenmeister +1, Der Verteidigungsbonus +1 >
+
+[Havanna]  Akumii(Stufe 2) Angriffskraft ¡æ [Mythic] Verteidiger Cuculi
+< Der Basispunkt +2, Der Verteidigungsbonus +1 >
+
+[Immortal]  Rodopushin(Stufe 2) Angriffskraft ¡æ [asddfasfd] Verteidiger Astaire
+< Der Basispunkt +2, Der Verteidigungsbonus +1 >
+
+[ShapeYou]  Berserker(Stufe 2) Angriffskraft ¡æ [Havanna]  Akumii
+< Der Basispunkt +2 >
+
+[Bootylicious] Der Gildenmeister Melon(Stufe 2) Angriffskraft ¡æ [ShapeYou]  Berserker
+< Der Basispunkt +2, Der Bonus mit Gildenmeister +1 >
+
+[ShapeYou]  Extrakt(Stufe 2) Angriffskraft ¡æ [Fear] Verteidiger saiyaa
+< Der Basispunkt +2, Der Verteidigungsbonus +1 >
+
+[Mythic] Der Gildenmeister Quez(Stufe 2) Angriffskraft ¡æ [Havanna]  Acai
+< Der Basispunkt +2, Der Bonus mit Gildenmeister +1 >
+
+[Immortal]  Rodopushin(Stufe 2) Angriffskraft ¡æ [ShapeYou]  Extrakt
+< Der Basispunkt +2 >
+
+[Mythic]  Vegeta(Stufe 2) Angriffskraft ¡æ [Havanna] Der Gildenmeister Meeresfrucht
+< Der Basispunkt +2 >
+
+[Havanna]  Shikku(Stufe 2) Angriffskraft ¡æ [Mythic] Verteidiger Cuculi
+< Der Basispunkt +2, Der Verteidigungsbonus +1 >
+
+[Mythic] Der Gildenmeister Quez(Stufe 2) Angriffskraft ¡æ [Fear] Verteidiger saiyaa
+< Der Basispunkt +2, Der Bonus mit Gildenmeister +1, Der Verteidigungsbonus +1 >
+
+[PopularLoner]  Lore(Stufe 2) Angriffskraft ¡æ [Viciouz] Der Gildenmeister jazon
+< Der Basispunkt +2 >
+
+[Immortal]  Rodopushin(Stufe 2) Angriffskraft ¡æ [asddfasfd] Verteidiger Astaire
+< Der Basispunkt +2, Der Verteidigungsbonus +1 >
+
+[ShapeYou]  Berserker(Stufe 2) Angriffskraft ¡æ [Immortal]  Tricky
+< Der Basispunkt +2, Der Wiederbelebungsbonus +1 >
+
+[Immortal]  SilverKing(Stufe 2) Angriffskraft ¡æ [Fear] Verteidiger saiyaa
+< Der Basispunkt +2, Der Verteidigungsbonus +1 >
+
+[Havanna]  Shikku(Stufe 2) Angriffskraft ¡æ [Mythic] Verteidiger Cuculi
+< Der Basispunkt +2, Der Verteidigungsbonus +1 >
+
+[PopularLoner]  Avenue(Stufe 2) Angriffskraft ¡æ [Mythic]  Vegeta
+< Der Basispunkt +2 >
+
+[Mythic] Der Gildenmeister Quez(Stufe 2) Angriffskraft ¡æ [PopularLoner]  Lore
+< Der Basispunkt +2, Der Bonus mit Gildenmeister +1 >
+
+[Immortal] Der Gildenmeister Biti(Stufe 2) Angriffskraft ¡æ [ShapeYou]  Berserker
+< Der Basispunkt +2, Der Bonus mit Gildenmeister +1 >
+
+[asddfasfd] Der Gildenmeister Astaire(Stufe 2) Angriffskraft ¡æ [Immortal] Verteidiger Rodopushin
+< Der Basispunkt +2, Der Bonus mit Gildenmeister +1, Der Verteidigungsbonus +1 >
+
+[Immortal]  Tricky(Stufe 2) Angriffskraft ¡æ [ShapeYou]  Extrakt
+< Der Basispunkt +2 >
+
+[Havanna]  Shikku(Stufe 2) Angriffskraft ¡æ [hhhhhhhhhhhhhhh] Der Gildenmeister Nyah
+< Der Basispunkt +2 >
+
+[Immortal]  SilverKing(Stufe 2) Angriffskraft ¡æ [Mythic] Verteidiger Cuculi
+< Der Basispunkt +2, Der Verteidigungsbonus +1 >
+
+[ShapeYou]  Extrakt(Stufe 2) Angriffskraft ¡æ [Havanna]  Akumii
+< Der Basispunkt +2 >
+
+[PopularLoner]  Avenue(Stufe 2) Angriffskraft ¡æ [Mythic]  Vegeta
+< Der Basispunkt +2 >
+
+[hhhhhhhhhhhhhhh] Der Gildenmeister Nyah(Stufe 2) Angriffskraft ¡æ [Immortal]  Tricky
+< Der Basispunkt +2, Der Bonus mit Gildenmeister +1 >
+
+[Immortal]  Amunra(Stufe 2) Angriffskraft ¡æ [hhhhhhhhhhhhhhh] Der Gildenmeister Nyah
+< Der Basispunkt +2 >
+
+[Mythic] Der Gildenmeister Quez(Stufe 2) Angriffskraft ¡æ [Havanna]  Acai
+< Der Basispunkt +2, Der Bonus mit Gildenmeister +1 >
+
+[Havanna] Der Gildenmeister Meeresfrucht(Stufe 2) Angriffskraft ¡æ [ShapeYou]  Leftside
+< Der Basispunkt +2, Der Bonus mit Gildenmeister +1 >
+
+[Havanna]  Shikku(Stufe 2) Angriffskraft ¡æ [asddfasfd] Verteidiger Astaire
+< Der Basispunkt +2, Der Verteidigungsbonus +1 >
+
+[PopularLoner]  CaptainSabotage(Stufe 2) Angriffskraft ¡æ [Mythic] Der Gildenmeister Quez
+< Der Basispunkt +2 >
+
+[Bootylicious] Der Gildenmeister Melon(Stufe 2) Angriffskraft ¡æ [Mythic] Verteidiger Cuculi
+< Der Basispunkt +2, Der Bonus mit Gildenmeister +1, Der Verteidigungsbonus +1 >
+
+[Immortal]  Tricky(Stufe 2) Angriffskraft ¡æ [Saiyajins] Verteidiger Gismoe
+< Der Basispunkt +2, Der Verteidigungsbonus +1 >
+
+[Viciouz] Der Gildenmeister jazon(Stufe 2) Angriffskraft ¡æ [PopularLoner] Verteidiger Avenue
+< Der Basispunkt +2, Der Bonus mit Gildenmeister +1, Der Verteidigungsbonus +1 >
+
+[Havanna] Der Gildenmeister Meeresfrucht(Stufe 2) Angriffskraft ¡æ [ShapeYou] Verteidiger Shuego
+< Der Basispunkt +2, Der Bonus mit Gildenmeister +1, Der Verteidigungsbonus +1 >
+
+[Havanna] Der Gildenmeister Meeresfrucht(Stufe 2) Angriffskraft ¡æ [ShapeYou]  Extrakt
+< Der Basispunkt +2, Der Bonus mit Gildenmeister +1 >
+
+[Immortal]  SilverKing(Stufe 2) Angriffskraft ¡æ [Havanna]  Acai
+< Der Basispunkt +2 >
+
+[Saiyajins] Der Gildenmeister Gismoe(Stufe 2) Angriffskraft ¡æ [Immortal]  Tricky
+< Der Basispunkt +2, Der Bonus mit Gildenmeister +1 >
+
+[Immortal] Der Gildenmeister Biti(Stufe 2) Angriffskraft ¡æ [ShapeYou]  Leftside
+< Der Basispunkt +2, Der Bonus mit Gildenmeister +1 >
+
+[Havanna]  Shikku(Stufe 2) Angriffskraft ¡æ [Viciouz] Der Gildenmeister jazon
+< Der Basispunkt +2 >
+
+[Immortal]  Rodopushin(Stufe 2) Angriffskraft ¡æ [Mythic]  Vegeta
+< Der Basispunkt +2 >
+
+[ShapeYou]  Leftside(Stufe 2) Angriffskraft ¡æ [Havanna]  Akumii
+< Der Basispunkt +2 >
+
+[Havanna]  Acai(Stufe 2) Angriffskraft ¡æ [Saiyajins] Verteidiger Gismoe
+< Der Basispunkt +2, Der Verteidigungsbonus +1 >
+
+[Wolves] Der Gildenmeister Ward(Stufe 2) Angriffskraft ¡æ [ShapeYou]  Extrakt
+< Der Basispunkt +2, Der Bonus mit Gildenmeister +1 >
+
+[Immortal]  Amunra(Stufe 2) Angriffskraft ¡æ [Wolves] Verteidiger Ward
+< Der Basispunkt +2, Der Verteidigungsbonus +1 >
+
+[asddfasfd] Der Gildenmeister Astaire(Stufe 2) Angriffskraft ¡æ [Immortal] Verteidiger Rodopushin
+< Der Basispunkt +2, Der Bonus mit Gildenmeister +1, Der Verteidigungsbonus +1 >
+
+[Immortal]  Tricky(Stufe 2) Angriffskraft ¡æ [asddfasfd] Verteidiger Astaire
+< Der Basispunkt +2, Der Verteidigungsbonus +1 >
+
+[PopularLoner]  CaptainSabotage(Stufe 2) Angriffskraft ¡æ [Saiyajins] Verteidiger Gismoe
+< Der Basispunkt +2, Der Verteidigungsbonus +1 >
+
+[Havanna]  Akumii(Stufe 2) Angriffskraft ¡æ [Mythic]  Vegeta
+< Der Basispunkt +2 >
+
+[Mythic] Der Gildenmeister Quez(Stufe 2) Angriffskraft ¡æ [PopularLoner]  Lore
+< Der Basispunkt +2, Der Bonus mit Gildenmeister +1 >
+
+[Immortal] Der Gildenmeister Biti(Stufe 2) Angriffskraft ¡æ [ShapeYou]  Leftside
+< Der Basispunkt +2, Der Bonus mit Gildenmeister +1 >
+
+[Havanna]  Shikku(Stufe 2) Angriffskraft ¡æ [Saiyajins] Verteidiger Gismoe
+< Der Basispunkt +2, Der Verteidigungsbonus +1 >
+
+[PopularLoner]  Avenue(Stufe 2) Angriffskraft ¡æ [ShapeYou]  Extrakt
+< Der Basispunkt +2 >
+
+[asddfasfd] Der Gildenmeister Astaire(Stufe 2) Angriffskraft ¡æ [PopularLoner]  Lore
+< Der Basispunkt +2, Der Bonus mit Gildenmeister +1 >
+
+[Immortal]  Rodopushin(Stufe 2) Angriffskraft ¡æ [ShapeYou] Verteidiger Shuego
+< Der Basispunkt +2, Der Verteidigungsbonus +1 >
+
+[PopularLoner]  CaptainSabotage(Stufe 2) Angriffskraft ¡æ [Saiyajins] Verteidiger Gismoe
+< Der Basispunkt +2, Der Verteidigungsbonus +1 >
+
+[Immortal]  Amunra(Stufe 2) Angriffskraft ¡æ [ShapeYou]  Leftside
+< Der Basispunkt +2 >
+
+[Immortal]  SilverKing(Stufe 2) Angriffskraft ¡æ [Havanna]  Acai
+< Der Basispunkt +2 >
+
+[Havanna]  Akumii(Stufe 2) Angriffskraft ¡æ [asddfasfd] Verteidiger Astaire
+< Der Basispunkt +2, Der Verteidigungsbonus +1 >
+
+[PopularLoner]  Avenue(Stufe 2) Angriffskraft ¡æ [Mythic]  Vegeta
+< Der Basispunkt +2 >
+
+[Saiyajins] Der Gildenmeister Gismoe(Stufe 2) Angriffskraft ¡æ [Immortal] Der Gildenmeister Biti
+< Der Basispunkt +2, Der Bonus mit Gildenmeister +1 >
+
+[Bootylicious] Der Gildenmeister Melon(Stufe 2) Angriffskraft ¡æ [ShapeYou]  Extrakt
+< Der Basispunkt +2, Der Bonus mit Gildenmeister +1 >
+
+[Immortal]  Tricky(Stufe 2) Angriffskraft ¡æ [Saiyajins] Verteidiger Gismoe
+< Der Basispunkt +2, Der Verteidigungsbonus +1 >
+
+[Havanna]  Acai(Stufe 2) Angriffskraft ¡æ [Immortal]  SilverKing
+< Der Basispunkt +2 >
+
+[Immortal]  Amunra(Stufe 2) Angriffskraft ¡æ [asddfasfd] Verteidiger Astaire
+< Der Basispunkt +2, Der Verteidigungsbonus +1 >
+
+[Bootylicious] Der Gildenmeister Melon(Stufe 2) Angriffskraft ¡æ [ShapeYou] Verteidiger Shuego
+< Der Basispunkt +2, Der Bonus mit Gildenmeister +1, Der Verteidigungsbonus +1 >
+
+[Mythic]  Vegeta(Stufe 2) Angriffskraft ¡æ [PopularLoner]  CaptainSabotage
+< Der Basispunkt +2, Der Wiederbelebungsbonus +1 >
+
+[Havanna] Der Gildenmeister Meeresfrucht(Stufe 2) Angriffskraft ¡æ [Mythic] Der Gildenmeister Quez
+< Der Basispunkt +2, Der Bonus mit Gildenmeister +1 >
+
+[Havanna]  Shikku(Stufe 2) Angriffskraft ¡æ [ShapeYou]  Leftside
+< Der Basispunkt +2 >
+
+[Saiyajins] Der Gildenmeister Gismoe(Stufe 2) Angriffskraft ¡æ [Havanna]  Vlad
+< Der Basispunkt +2, Der Bonus mit Gildenmeister +1 >
+
+[PopularLoner]  Avenue(Stufe 2) Angriffskraft ¡æ [Saiyajins] Verteidiger Gismoe
+< Der Basispunkt +2, Der Verteidigungsbonus +1 >
+
+[Immortal] Der Gildenmeister Biti(Stufe 2) Angriffskraft ¡æ [ShapeYou]  Extrakt
+< Der Basispunkt +2, Der Bonus mit Gildenmeister +1 >
+
+[Viciouz] Der Gildenmeister jazon(Stufe 2) Angriffskraft ¡æ [PopularLoner]  Lore
+< Der Basispunkt +2, Der Bonus mit Gildenmeister +1 >
+
+[Bootylicious] Der Gildenmeister Melon(Stufe 2) Angriffskraft ¡æ [Immortal]  Tricky
+< Der Basispunkt +2, Der Bonus mit Gildenmeister +1 >
+
+[Immortal]  Rodopushin(Stufe 2) Angriffskraft ¡æ [asddfasfd] Verteidiger Astaire
+< Der Basispunkt +2, Der Verteidigungsbonus +1 >
+
+[ShapeYou]  Leftside(Stufe 2) Angriffskraft ¡æ [Immortal]  Amunra
+< Der Basispunkt +2, Der Wiederbelebungsbonus +1 >
+
+[Saiyajins] Der Gildenmeister Gismoe(Stufe 2) Angriffskraft ¡æ [ShapeYou]  Leftside
+< Der Basispunkt +2, Der Bonus mit Gildenmeister +1 >
+
+[Havanna]  Vlad(Stufe 2) Angriffskraft ¡æ [Saiyajins] Verteidiger Gismoe
+< Der Basispunkt +2, Der Verteidigungsbonus +1 >
+
+[Havanna]  Acai(Stufe 2) Angriffskraft ¡æ [Immortal]  SilverKing
+< Der Basispunkt +2 >
+
+[Havanna] Der Gildenmeister Meeresfrucht(Stufe 2) Angriffskraft ¡æ [ShapeYou] Verteidiger Shuego
+< Der Basispunkt +2, Der Bonus mit Gildenmeister +1, Der Verteidigungsbonus +1 >
+
+[Mythic] Der Gildenmeister Quez(Stufe 2) Angriffskraft ¡æ [Havanna] Der Gildenmeister Meeresfrucht
+< Der Basispunkt +2, Der Bonus mit Gildenmeister +1 >
+
+[Havanna]  Shikku(Stufe 2) Angriffskraft ¡æ [Mythic]  Vegeta
+< Der Basispunkt +2 >
+
+[Saiyajins] Der Gildenmeister Gismoe(Stufe 2) Angriffskraft ¡æ [Immortal] Der Gildenmeister Biti
+< Der Basispunkt +2, Der Bonus mit Gildenmeister +1, Der Wiederbelebungsbonus +1 >
+
+[Immortal]  Amunra(Stufe 2) Angriffskraft ¡æ [Saiyajins] Verteidiger Gismoe
+< Der Basispunkt +2, Der Verteidigungsbonus +1 >
+
+[Duesenflitzer] Der Gildenmeister Monsti(Stufe 2) Angriffskraft ¡æ [asddfasfd] Verteidiger Astaire
+< Der Basispunkt +2, Der Bonus mit Gildenmeister +1, Der Verteidigungsbonus +1 >
+
+[Wolves] Der Gildenmeister Ward(Stufe 2) Angriffskraft ¡æ [ShapeYou] Verteidiger Shuego
+< Der Basispunkt +2, Der Bonus mit Gildenmeister +1, Der Verteidigungsbonus +1 >
+
+[Bootylicious]  Kuroe(Stufe 2) Angriffskraft ¡æ [Immortal]  SilverKing
+< Der Basispunkt +2 >
+
+[Immortal]  Amunra(Stufe 2) Angriffskraft ¡æ [PopularLoner]  CaptainSabotage
+< Der Basispunkt +2 >
+
+[Immortal]  Tricky(Stufe 2) Angriffskraft ¡æ [asddfasfd] Verteidiger Astaire
+< Der Basispunkt +2, Der Verteidigungsbonus +1 >
+
+[Havanna]  Vlad(Stufe 2) Angriffskraft ¡æ [Mythic] Der Gildenmeister Quez
+< Der Basispunkt +2 >
+
+[Havanna] Der Gildenmeister Meeresfrucht(Stufe 2) Angriffskraft ¡æ [Immortal] Verteidiger Rodopushin
+< Der Basispunkt +2, Der Bonus mit Gildenmeister +1, Der Verteidigungsbonus +1 >
+
+[Havanna]  Akumii(Stufe 2) Angriffskraft ¡æ [Viciouz] Der Gildenmeister jazon
+< Der Basispunkt +2 >
+
+[Havanna] Der Gildenmeister Meeresfrucht(Stufe 2) Angriffskraft ¡æ [Immortal]  SilverKing
+< Der Basispunkt +2, Der Bonus mit Gildenmeister +1 >
+
+[PopularLoner]  Lore(Stufe 2) Angriffskraft ¡æ [hhhhhhhhhhhhhhh] Der Gildenmeister Nyah
+< Der Basispunkt +2 >
+
+[PopularLoner]  CaptainSabotage(Stufe 2) Angriffskraft ¡æ [Immortal] Der Gildenmeister Biti
+< Der Basispunkt +2 >
+
+[Havanna]  Vlad(Stufe 2) Angriffskraft ¡æ [Mythic] Der Gildenmeister Quez
+< Der Basispunkt +2 >
+
+[Immortal]  Rodopushin(Stufe 2) Angriffskraft ¡æ [ShapeYou] Verteidiger Shuego
+< Der Basispunkt +2, Der Verteidigungsbonus +1 >
+
+[Immortal]  SilverKing(Stufe 2) Angriffskraft ¡æ [PopularLoner]  Lore
+< Der Basispunkt +2 >
+
+[Bootylicious] Der Gildenmeister Melon(Stufe 2) Angriffskraft ¡æ [Viciouz] Der Gildenmeister jazon
+< Der Basispunkt +2, Der Bonus mit Gildenmeister +1 >
+
+[hhhhhhhhhhhhhhh] Der Gildenmeister Nyah(Stufe 2) Angriffskraft ¡æ [Havanna]  Acai
+< Der Basispunkt +2, Der Bonus mit Gildenmeister +1 >
+
+[Havanna] Der Gildenmeister Meeresfrucht(Stufe 2) Angriffskraft ¡æ [Immortal]  SilverKing
+< Der Basispunkt +2, Der Bonus mit Gildenmeister +1 >
+
+[Havanna]  Vlad(Stufe 2) Angriffskraft ¡æ [Immortal]  Amunra
+< Der Basispunkt +2 >
+
+[Havanna]  Akumii(Stufe 2) Angriffskraft ¡æ [hhhhhhhhhhhhhhh] Der Gildenmeister Nyah
+< Der Basispunkt +2 >
+
+[Havanna]  Shikku(Stufe 2) Angriffskraft ¡æ [ShapeYou] Verteidiger Shuego
+< Der Basispunkt +2, Der Verteidigungsbonus +1 >
+
+[Havanna]  Acai(Stufe 2) Angriffskraft ¡æ [Mythic] Der Gildenmeister Quez
+< Der Basispunkt +2 >
+
+[Immortal] Der Gildenmeister Biti(Stufe 2) Angriffskraft ¡æ [Viciouz] Der Gildenmeister jazon
+< Der Basispunkt +2, Der Bonus mit Gildenmeister +1 >
+
+[Immortal]  Rodopushin(Stufe 2) Angriffskraft ¡æ [Wolves] Verteidiger Ward
+< Der Basispunkt +2, Der Verteidigungsbonus +1 >
+
+[Immortal] Der Gildenmeister Biti(Stufe 2) Angriffskraft ¡æ [hhhhhhhhhhhhhhh] Der Gildenmeister Nyah
+< Der Basispunkt +2, Der Bonus mit Gildenmeister +1 >
+
+[Havanna]  Shikku(Stufe 2) Angriffskraft ¡æ [ShapeYou] Verteidiger Shuego
+< Der Basispunkt +2, Der Verteidigungsbonus +1 >
+
+[Havanna]  Akumii(Stufe 2) Angriffskraft ¡æ [Mythic] Der Gildenmeister Quez
+< Der Basispunkt +2 >
+
+[Immortal]  Rodopushin(Stufe 2) Angriffskraft ¡æ [PopularLoner]  CaptainSabotage
+< Der Basispunkt +2 >
+
+[Bootylicious] Der Gildenmeister Melon(Stufe 2) Angriffskraft ¡æ [Wolves] Verteidiger Ward
+< Der Basispunkt +2, Der Bonus mit Gildenmeister +1, Der Verteidigungsbonus +1 >
+
+[PopularLoner]  Avenue(Stufe 2) Angriffskraft ¡æ [Immortal]  SilverKing
+< Der Basispunkt +2 >
+
+[Havanna]  Akumii(Stufe 2) Angriffskraft ¡æ [ShapeYou] Verteidiger Shuego
+< Der Basispunkt +2, Der Verteidigungsbonus +1 >
+
+[Immortal]  SilverKing(Stufe 2) Angriffskraft ¡æ [Mythic] Der Gildenmeister Quez
+< Der Basispunkt +2 >
+
+[Immortal]  Amunra(Stufe 2) Angriffskraft ¡æ [Bootylicious]  Kuroe
+< Der Basispunkt +2 >
+
+[Wolves] Der Gildenmeister Ward(Stufe 2) Angriffskraft ¡æ [Duesenflitzer] Verteidiger Monsti
+< Der Basispunkt +2, Der Bonus mit Gildenmeister +1, Der Verteidigungsbonus +1, Der Wiederbelebungsbonus +1 >
+
+[Immortal]  Rodopushin(Stufe 2) Angriffskraft ¡æ [hhhhhhhhhhhhhhh] Der Gildenmeister Nyah
+< Der Basispunkt +2 >
+
+[Mythic] Der Gildenmeister Quez(Stufe 2) Angriffskraft ¡æ [Immortal]  Tricky
+< Der Basispunkt +2, Der Bonus mit Gildenmeister +1 >
+
+[Havanna]  Shikku(Stufe 2) Angriffskraft ¡æ [PopularLoner]  CaptainSabotage
+< Der Basispunkt +2 >
+
+[Immortal] Der Gildenmeister Biti(Stufe 2) Angriffskraft ¡æ [Mythic] Der Gildenmeister Quez
+< Der Basispunkt +2, Der Bonus mit Gildenmeister +1 >
+
+[hhhhhhhhhhhhhhh] Der Gildenmeister Nyah(Stufe 2) Angriffskraft ¡æ [Immortal] Der Gildenmeister Biti
+< Der Basispunkt +2, Der Bonus mit Gildenmeister +1 >
+
+[Immortal]  Amunra(Stufe 2) Angriffskraft ¡æ [Havanna] Verteidiger Shikku
+< Der Basispunkt +2, Der Verteidigungsbonus +1 >
+
+[PopularLoner]  CaptainSabotage(Stufe 2) Angriffskraft ¡æ [Bootylicious] Der Gildenmeister Melon
+< Der Basispunkt +2 >
+
+[Havanna]  Akumii(Stufe 2) Angriffskraft ¡æ [Viciouz] Der Gildenmeister jazon
+< Der Basispunkt +2 >
+
+[Immortal] Der Gildenmeister Biti(Stufe 2) Angriffskraft ¡æ [ShapeYou] Verteidiger Shuego
+< Der Basispunkt +2, Der Bonus mit Gildenmeister +1, Der Verteidigungsbonus +1 >
+
+[Wolves] Der Gildenmeister Ward(Stufe 2) Angriffskraft ¡æ [Immortal] Verteidiger Rodopushin
+< Der Basispunkt +2, Der Bonus mit Gildenmeister +1, Der Verteidigungsbonus +1, Der Wiederbelebungsbonus +1 >
+
+[PopularLoner]  CaptainSabotage(Stufe 2) Angriffskraft ¡æ [Mythic] Der Gildenmeister Quez
+< Der Basispunkt +2 >
+
+[Havanna]  Akumii(Stufe 2) Angriffskraft ¡æ [PopularLoner]  CaptainSabotage
+< Der Basispunkt +2 >
+
+[Immortal]  SilverKing(Stufe 2) Angriffskraft ¡æ [Havanna]  Acai
+< Der Basispunkt +2 >
+
+[Duesenflitzer] Der Gildenmeister Monsti(Stufe 2) Angriffskraft ¡æ [ShapeYou] Verteidiger Shuego
+< Der Basispunkt +2, Der Bonus mit Gildenmeister +1, Der Verteidigungsbonus +1 >
+
+[Bootylicious] Der Gildenmeister Melon(Stufe 2) Angriffskraft ¡æ [Viciouz] Der Gildenmeister jazon
+< Der Basispunkt +2, Der Bonus mit Gildenmeister +1 >
+
+[Immortal]  SilverKing(Stufe 2) Angriffskraft ¡æ [Mythic] Der Gildenmeister Quez
+< Der Basispunkt +2 >
+
+[Immortal]  Rodopushin(Stufe 2) Angriffskraft ¡æ [hhhhhhhhhhhhhhh] Der Gildenmeister Nyah
+< Der Basispunkt +2 >
+
+[Bootylicious] Der Gildenmeister Melon(Stufe 2) Angriffskraft ¡æ [Immortal] Verteidiger Rodopushin
+< Der Basispunkt +2, Der Bonus mit Gildenmeister +1, Der Verteidigungsbonus +1 >
+
+[PopularLoner]  CaptainSabotage(Stufe 2) Angriffskraft ¡æ [Havanna] Verteidiger Shikku
+< Der Basispunkt +2, Der Verteidigungsbonus +1 >
+
+[Immortal]  Amunra(Stufe 2) Angriffskraft ¡æ [PopularLoner]  Lore
+< Der Basispunkt +2 >
+
+[Havanna]  Acai(Stufe 2) Angriffskraft ¡æ [Bootylicious] Der Gildenmeister Melon
+< Der Basispunkt +2 >
+
+[Havanna]  Akumii(Stufe 2) Angriffskraft ¡æ [ShapeYou] Verteidiger Shuego
+< Der Basispunkt +2, Der Verteidigungsbonus +1 >
+
+[Havanna]  Shikku(Stufe 2) Angriffskraft ¡æ [Immortal]  Amunra
+< Der Basispunkt +2 >
+
+[Mythic] Der Gildenmeister Quez(Stufe 2) Angriffskraft ¡æ [Immortal]  Tricky
+< Der Basispunkt +2, Der Bonus mit Gildenmeister +1 >
+
+[Havanna]  Vlad(Stufe 2) Angriffskraft ¡æ [Mythic] Der Gildenmeister Quez
+< Der Basispunkt +2 >
+
+[Immortal]  Rodopushin(Stufe 2) Angriffskraft ¡æ [ShapeYou] Verteidiger Shuego
+< Der Basispunkt +2, Der Verteidigungsbonus +1 >
+
+[PopularLoner]  CaptainSabotage(Stufe 2) Angriffskraft ¡æ [Havanna] Der Gildenmeister Meeresfrucht
+< Der Basispunkt +2 >
+
+[Havanna]  Akumii(Stufe 2) Angriffskraft ¡æ [PopularLoner]  CaptainSabotage
+< Der Basispunkt +2 >
+
+[Bootylicious]  Kuroe(Stufe 2) Angriffskraft ¡æ [Immortal]  Amunra
+< Der Basispunkt +2 >
+
+[Immortal]  Tricky(Stufe 2) Angriffskraft ¡æ [Havanna]  Acai
+< Der Basispunkt +2 >
+
+[Havanna]  Shikku(Stufe 2) Angriffskraft ¡æ [Mythic] Der Gildenmeister Quez
+< Der Basispunkt +2 >
+
+[Havanna]  Akumii(Stufe 2) Angriffskraft ¡æ [PopularLoner]  Lore
+< Der Basispunkt +2 >
+
+[Immortal]  Rodopushin(Stufe 2) Angriffskraft ¡æ [ShapeYou] Verteidiger Shuego
+< Der Basispunkt +2, Der Verteidigungsbonus +1 >
+
+[PopularLoner]  Avenue(Stufe 2) Angriffskraft ¡æ [Viciouz] Der Gildenmeister jazon
+< Der Basispunkt +2 >
+
+[Immortal] Der Gildenmeister Biti(Stufe 2) Angriffskraft ¡æ [Bootylicious] Der Gildenmeister Melon
+< Der Basispunkt +2, Der Bonus mit Gildenmeister +1 >
+
+[Havanna]  Shikku(Stufe 2) Angriffskraft ¡æ [Immortal] Verteidiger Rodopushin
+< Der Basispunkt +2, Der Verteidigungsbonus +1 >
+
+[Immortal] Der Gildenmeister Biti(Stufe 2) Angriffskraft ¡æ [Duesenflitzer] Verteidiger Monsti
+< Der Basispunkt +2, Der Bonus mit Gildenmeister +1, Der Verteidigungsbonus +1 >
+
+[ShapeYou]  Shuego(Stufe 2) Angriffskraft ¡æ [Havanna]  Acai
+< Der Basispunkt +2, Der Wiederbelebungsbonus +1 >
+
+[Havanna]  Vlad(Stufe 2) Angriffskraft ¡æ [Immortal]  Tricky
+< Der Basispunkt +2 >
+
+[PopularLoner]  CaptainSabotage(Stufe 2) Angriffskraft ¡æ [ShapeYou] Verteidiger Shuego
+< Der Basispunkt +2, Der Verteidigungsbonus +1, Der Wiederbelebungsbonus +1 >
+
+[Havanna] Der Gildenmeister Meeresfrucht(Stufe 2) Angriffskraft ¡æ [PopularLoner]  CaptainSabotage
+< Der Basispunkt +2, Der Bonus mit Gildenmeister +1 >
+
+[Immortal]  SilverKing(Stufe 2) Angriffskraft ¡æ [Mythic] Der Gildenmeister Quez
+< Der Basispunkt +2 >
+
+[Havanna] Der Gildenmeister Meeresfrucht(Stufe 2) Angriffskraft ¡æ [Immortal] Der Gildenmeister Biti
+< Der Basispunkt +2, Der Bonus mit Gildenmeister +1 >
+
+[Havanna]  Akumii(Stufe 2) Angriffskraft ¡æ [hhhhhhhhhhhhhhh] Der Gildenmeister Nyah
+< Der Basispunkt +2 >
+
+[Havanna]  Vlad(Stufe 2) Angriffskraft ¡æ [Wolves] Verteidiger Ward
+< Der Basispunkt +2, Der Verteidigungsbonus +1 >
+
+[Immortal]  Rodopushin(Stufe 2) Angriffskraft ¡æ [Bootylicious]  Kuroe
+< Der Basispunkt +2 >
+
+[Immortal]  Amunra(Stufe 2) Angriffskraft ¡æ [Havanna] Verteidiger Shikku
+< Der Basispunkt +2, Der Verteidigungsbonus +1 >
+
+[Havanna]  Vlad(Stufe 2) Angriffskraft ¡æ [PopularLoner] Verteidiger Avenue
+< Der Basispunkt +2, Der Verteidigungsbonus +1 >
+
+[Havanna]  Acai(Stufe 2) Angriffskraft ¡æ [PopularLoner]  Lore
+< Der Basispunkt +2 >
+
+[Havanna] Der Gildenmeister Meeresfrucht(Stufe 2) Angriffskraft ¡æ [Bootylicious] Der Gildenmeister Melon
+< Der Basispunkt +2, Der Bonus mit Gildenmeister +1 >
+
+[Immortal]  Amunra(Stufe 2) Angriffskraft ¡æ [Bootylicious]  Kuroe
+< Der Basispunkt +2 >
+
+[Immortal]  Rodopushin(Stufe 2) Angriffskraft ¡æ [Havanna] Verteidiger Shikku
+< Der Basispunkt +2, Der Verteidigungsbonus +1 >
+
+[Havanna]  Vlad(Stufe 2) Angriffskraft ¡æ [Immortal] Der Gildenmeister Biti
+< Der Basispunkt +2 >
+
+[Havanna] Der Gildenmeister Meeresfrucht(Stufe 2) Angriffskraft ¡æ [Immortal]  Tricky
+< Der Basispunkt +2, Der Bonus mit Gildenmeister +1 >
+
+[Havanna]  Akumii(Stufe 2) Angriffskraft ¡æ [PopularLoner] Verteidiger Avenue
+< Der Basispunkt +2, Der Verteidigungsbonus +1 >
+
+[Immortal]  Rodopushin(Stufe 2) Angriffskraft ¡æ [Havanna] Verteidiger Shikku
+< Der Basispunkt +2, Der Verteidigungsbonus +1 >
+
+[Duesenflitzer] Der Gildenmeister Monsti(Stufe 2) Angriffskraft ¡æ [Havanna]  Vlad
+< Der Basispunkt +2, Der Bonus mit Gildenmeister +1 >
+
+[Havanna]  Vlad(Stufe 2) Angriffskraft ¡æ [Immortal]  Tricky
+< Der Basispunkt +2 >
+
+[Havanna]  Shikku(Stufe 2) Angriffskraft ¡æ [Immortal] Verteidiger Rodopushin
+< Der Basispunkt +2, Der Verteidigungsbonus +1 >
+
+[Havanna]  Akumii(Stufe 2) Angriffskraft ¡æ [Immortal] Der Gildenmeister Biti
+< Der Basispunkt +2 >
+
+[Duesenflitzer] Der Gildenmeister Monsti(Stufe 2) Angriffskraft ¡æ [Havanna]  Acai
+< Der Basispunkt +2, Der Bonus mit Gildenmeister +1 >
+
+[Immortal]  SilverKing(Stufe 2) Angriffskraft ¡æ [Havanna] Der Gildenmeister Meeresfrucht
+< Der Basispunkt +2 >
+
+[Havanna]  Vlad(Stufe 2) Angriffskraft ¡æ [Duesenflitzer] Verteidiger Monsti
+< Der Basispunkt +2, Der Verteidigungsbonus +1 >
+
+[Havanna] Der Gildenmeister Meeresfrucht(Stufe 2) Angriffskraft ¡æ [Immortal]  Tricky
+< Der Basispunkt +2, Der Bonus mit Gildenmeister +1 >
+
+[Immortal]  SilverKing(Stufe 2) Angriffskraft ¡æ [Havanna] Der Gildenmeister Meeresfrucht
+< Der Basispunkt +2 >
+
+[Duesenflitzer] Der Gildenmeister Monsti(Stufe 2) Angriffskraft ¡æ [Havanna]  Vlad
+< Der Basispunkt +2, Der Bonus mit Gildenmeister +1 >
+
+[Havanna]  Akumii(Stufe 2) Angriffskraft ¡æ [Bootylicious]  Kuroe
+< Der Basispunkt +2 >
+
+[Immortal] Der Gildenmeister Biti(Stufe 2) Angriffskraft ¡æ [Havanna] Der Gildenmeister Meeresfrucht
+< Der Basispunkt +2, Der Bonus mit Gildenmeister +1 >
+
+[Havanna]  Shikku(Stufe 2) Angriffskraft ¡æ [Immortal] Verteidiger Rodopushin
+< Der Basispunkt +2, Der Verteidigungsbonus +1 >
+
+[PopularLoner]  Avenue(Stufe 2) Angriffskraft ¡æ [Immortal]  Amunra
+< Der Basispunkt +2 >
+
+[Bootylicious]  Kuroe(Stufe 2) Angriffskraft ¡æ [PopularLoner] Verteidiger Avenue
+< Der Basispunkt +2, Der Verteidigungsbonus +1 >
+
+[Havanna] Der Gildenmeister Meeresfrucht(Stufe 2) Angriffskraft ¡æ [Bootylicious] Der Gildenmeister Melon
+< Der Basispunkt +2, Der Bonus mit Gildenmeister +1 >
+
+[Immortal]  Rodopushin(Stufe 2) Angriffskraft ¡æ [PopularLoner] Verteidiger Avenue
+< Der Basispunkt +2, Der Verteidigungsbonus +1 >
+
+[Immortal]  SilverKing(Stufe 2) Angriffskraft ¡æ [Havanna]  Acai
+< Der Basispunkt +2 >
+
+[Havanna]  Vlad(Stufe 2) Angriffskraft ¡æ [Immortal]  Tricky
+< Der Basispunkt +2 >
+
+[Havanna]  Akumii(Stufe 2) Angriffskraft ¡æ [Immortal]  SilverKing
+< Der Basispunkt +2 >
+
+[Havanna]  Acai(Stufe 2) Angriffskraft ¡æ [Immortal]  Amunra
+< Der Basispunkt +2 >
+
+[Bootylicious] Der Gildenmeister Melon(Stufe 2) Angriffskraft ¡æ [Immortal] Der Gildenmeister Biti
+< Der Basispunkt +2, Der Bonus mit Gildenmeister +1 >
+
+[Bootylicious] Der Gildenmeister Melon(Stufe 2) Angriffskraft ¡æ [Immortal]  Tricky
+< Der Basispunkt +2, Der Bonus mit Gildenmeister +1 >
+
+[Immortal]  Rodopushin(Stufe 2) Angriffskraft ¡æ [Bootylicious] Der Gildenmeister Melon
+< Der Basispunkt +2 >
+
+[Bootylicious]  Kuroe(Stufe 2) Angriffskraft ¡æ [Havanna]  Acai
+< Der Basispunkt +2 >
+
+[Havanna]  Akumii(Stufe 2) Angriffskraft ¡æ [PopularLoner] Verteidiger Avenue
+< Der Basispunkt +2, Der Verteidigungsbonus +1 >
+
+[Immortal] Der Gildenmeister Biti(Stufe 2) Angriffskraft ¡æ [Havanna]  Akumii
+< Der Basispunkt +2, Der Bonus mit Gildenmeister +1 >
+
+[Immortal] Der Gildenmeister Biti(Stufe 2) Angriffskraft ¡æ [Havanna] Der Gildenmeister Meeresfrucht
+< Der Basispunkt +2, Der Bonus mit Gildenmeister +1 >
+
+[Bootylicious] Der Gildenmeister Melon(Stufe 2) Angriffskraft ¡æ [Immortal] Verteidiger Rodopushin
+< Der Basispunkt +2, Der Bonus mit Gildenmeister +1, Der Verteidigungsbonus +1 >
+
+[Immortal]  SilverKing(Stufe 2) Angriffskraft ¡æ [Duesenflitzer] Verteidiger Monsti
+< Der Basispunkt +2, Der Verteidigungsbonus +1 >
+
+[Havanna] Der Gildenmeister Meeresfrucht(Stufe 2) Angriffskraft ¡æ [Immortal]  SilverKing
+< Der Basispunkt +2, Der Bonus mit Gildenmeister +1 >
+
+[Immortal]  Amunra(Stufe 2) Angriffskraft ¡æ [PopularLoner] Verteidiger Avenue
+< Der Basispunkt +2, Der Verteidigungsbonus +1 >
+
+[Havanna]  Vlad(Stufe 2) Angriffskraft ¡æ [Immortal]  SilverKing
+< Der Basispunkt +2 >
+
+[Duesenflitzer] Der Gildenmeister Monsti(Stufe 2) Angriffskraft ¡æ [Havanna]  Akumii
+< Der Basispunkt +2, Der Bonus mit Gildenmeister +1 >
+
+[Havanna]  Shikku(Stufe 2) Angriffskraft ¡æ [Immortal] Verteidiger Rodopushin
+< Der Basispunkt +2, Der Verteidigungsbonus +1 >
+
+[Immortal] Der Gildenmeister Biti(Stufe 2) Angriffskraft ¡æ [Havanna] Verteidiger Shikku
+< Der Basispunkt +2, Der Bonus mit Gildenmeister +1, Der Verteidigungsbonus +1 >
+
+[Bootylicious]  Kuroe(Stufe 2) Angriffskraft ¡æ [Immortal]  Amunra
+< Der Basispunkt +2 >
+
+[Havanna]  Vlad(Stufe 2) Angriffskraft ¡æ [Immortal]  SilverKing
+< Der Basispunkt +2 >
+
+[PopularLoner]  Avenue(Stufe 2) Angriffskraft ¡æ [Havanna]  Acai
+< Der Basispunkt +2 >
+
+[PopularLoner]  Avenue(Stufe 2) Angriffskraft ¡æ [Duesenflitzer] Verteidiger Monsti
+< Der Basispunkt +2, Der Verteidigungsbonus +1 >
+
+[Havanna]  Acai(Stufe 2) Angriffskraft ¡æ [Bootylicious] Der Gildenmeister Melon
+< Der Basispunkt +2, Der Wiederbelebungsbonus +1 >
+
+[Havanna]  Acai(Stufe 2) Angriffskraft ¡æ [Immortal] Der Gildenmeister Biti
+< Der Basispunkt +2, Der Wiederbelebungsbonus +1 >
+
+[Havanna]  Acai(Stufe 2) Angriffskraft ¡æ [Immortal]  SilverKing
+< Der Basispunkt +2, Der Wiederbelebungsbonus +1 >
+
+[Havanna]  Shikku(Stufe 2) Angriffskraft ¡æ [Immortal] Der Gildenmeister Biti
+< Der Basispunkt +2 >
+
+[Havanna]  Akumii(Stufe 2) Angriffskraft ¡æ [Duesenflitzer] Verteidiger Monsti
+< Der Basispunkt +2, Der Verteidigungsbonus +1 >
+
+[Immortal]  Tricky(Stufe 2) Angriffskraft ¡æ [PopularLoner] Verteidiger Avenue
+< Der Basispunkt +2, Der Verteidigungsbonus +1, Der Wiederbelebungsbonus +1 >
+
+[Immortal]  SilverKing(Stufe 2) Angriffskraft ¡æ [Havanna] Verteidiger Shikku
+< Der Basispunkt +2, Der Verteidigungsbonus +1 >
+
+[Havanna]  Acai(Stufe 2) Angriffskraft ¡æ [Bootylicious] Der Gildenmeister Melon
+< Der Basispunkt +2, Der Wiederbelebungsbonus +1 >
+
+[Havanna]  Acai(Stufe 2) Angriffskraft ¡æ [Duesenflitzer] Verteidiger Monsti
+< Der Basispunkt +2, Der Verteidigungsbonus +1, Der Wiederbelebungsbonus +1 >
+
+[Havanna]  Shikku(Stufe 2) Angriffskraft ¡æ [Immortal]  SilverKing
+< Der Basispunkt +2, Der Wiederbelebungsbonus +1 >
+
+[Havanna]  Akumii(Stufe 2) Angriffskraft ¡æ [Bootylicious]  Kuroe
+< Der Basispunkt +2 >
+
+[Havanna]  Acai(Stufe 2) Angriffskraft ¡æ [Bootylicious] Der Gildenmeister Melon
+< Der Basispunkt +2, Der Wiederbelebungsbonus +1 >
+
+[Duesenflitzer] Der Gildenmeister Monsti(Stufe 2) Angriffskraft ¡æ [Havanna]  Akumii
+< Der Basispunkt +2, Der Bonus mit Gildenmeister +1 >
+
+[Immortal]  Rodopushin(Stufe 2) Angriffskraft ¡æ [Bootylicious]  Kuroe
+< Der Basispunkt +2 >
+
+[Havanna]  Acai(Stufe 2) Angriffskraft ¡æ [PopularLoner] Verteidiger Avenue
+< Der Basispunkt +2, Der Verteidigungsbonus +1, Der Wiederbelebungsbonus +1 >
+
+[Immortal]  Tricky(Stufe 2) Angriffskraft ¡æ [Havanna] Der Gildenmeister Meeresfrucht
+< Der Basispunkt +2, Der Wiederbelebungsbonus +1 >
+
+[Immortal]  Rodopushin(Stufe 2) Angriffskraft ¡æ [PopularLoner] Verteidiger Avenue
+< Der Basispunkt +2, Der Verteidigungsbonus +1 >
+
+[Havanna] Der Gildenmeister Meeresfrucht(Stufe 2) Angriffskraft ¡æ [Immortal]  Tricky
+< Der Basispunkt +2, Der Bonus mit Gildenmeister +1 >
+
+[Havanna]  Akumii(Stufe 2) Angriffskraft ¡æ [Duesenflitzer] Verteidiger Monsti
+< Der Basispunkt +2, Der Verteidigungsbonus +1 >
+
+[Havanna]  Vlad(Stufe 2) Angriffskraft ¡æ [PopularLoner] Verteidiger Avenue
+< Der Basispunkt +2, Der Verteidigungsbonus +1 >
+
+[Havanna]  Shikku(Stufe 2) Angriffskraft ¡æ [Immortal] Verteidiger Rodopushin
+< Der Basispunkt +2, Der Verteidigungsbonus +1, Der Wiederbelebungsbonus +1 >
+
+[Bootylicious]  Kuroe(Stufe 2) Angriffskraft ¡æ [Immortal] Der Gildenmeister Biti
+< Der Basispunkt +2 >
+
+[Immortal]  Rodopushin(Stufe 2) Angriffskraft ¡æ [Havanna]  Vlad
+< Der Basispunkt +2, Der Wiederbelebungsbonus +1 >
+
+[Havanna]  Akumii(Stufe 2) Angriffskraft ¡æ [Immortal]  SilverKing
+< Der Basispunkt +2 >
+
+[Duesenflitzer] Der Gildenmeister Monsti(Stufe 2) Angriffskraft ¡æ [Havanna] Verteidiger Shikku
+< Der Basispunkt +2, Der Bonus mit Gildenmeister +1, Der Verteidigungsbonus +1 >
+
+[Havanna] Der Gildenmeister Meeresfrucht(Stufe 2) Angriffskraft ¡æ [Bootylicious] Der Gildenmeister Melon
+< Der Basispunkt +2, Der Bonus mit Gildenmeister +1 >
+
+[Immortal] Der Gildenmeister Biti(Stufe 2) Angriffskraft ¡æ [Havanna]  Vlad
+< Der Basispunkt +2, Der Bonus mit Gildenmeister +1 >
+
+[Immortal]  Amunra(Stufe 2) Angriffskraft ¡æ [Havanna]  Vlad
+< Der Basispunkt +2 >
+
+[Havanna]  Akumii(Stufe 2) Angriffskraft ¡æ [Duesenflitzer] Verteidiger Monsti
+< Der Basispunkt +2, Der Verteidigungsbonus +1 >
+
+[Immortal]  Amunra(Stufe 2) Angriffskraft ¡æ [Havanna] Der Gildenmeister Meeresfrucht
+< Der Basispunkt +2 >
+
+[Havanna]  Vlad(Stufe 2) Angriffskraft ¡æ [Immortal]  Amunra
+< Der Basispunkt +2 >
+
+[Havanna]  Acai(Stufe 2) Angriffskraft ¡æ [Immortal] Verteidiger Rodopushin
+< Der Basispunkt +2, Der Verteidigungsbonus +1, Der Wiederbelebungsbonus +1 >
+
+[Havanna]  Acai(Stufe 2) Angriffskraft ¡æ [Immortal]  SilverKing
+< Der Basispunkt +2, Der Wiederbelebungsbonus +1 >
+
+[Bootylicious]  Kuroe(Stufe 2) Angriffskraft ¡æ [Immortal] Der Gildenmeister Biti
+< Der Basispunkt +2 >
+
+[Bootylicious]  Kuroe(Stufe 2) Angriffskraft ¡æ [Havanna]  Acai
+< Der Basispunkt +2 >
+
+[Havanna]  Akumii(Stufe 2) Angriffskraft ¡æ [Duesenflitzer] Verteidiger Monsti
+< Der Basispunkt +2, Der Verteidigungsbonus +1 >
+
+[Havanna] Der Gildenmeister Meeresfrucht(Stufe 2) Angriffskraft ¡æ [Immortal]  SilverKing
+< Der Basispunkt +2, Der Bonus mit Gildenmeister +1 >
+
+[Immortal] Der Gildenmeister Biti(Stufe 2) Angriffskraft ¡æ [Bootylicious] Der Gildenmeister Melon
+< Der Basispunkt +2, Der Bonus mit Gildenmeister +1 >
+
+[Havanna]  Vlad(Stufe 2) Angriffskraft ¡æ [Immortal]  Amunra
+< Der Basispunkt +2 >
+
+[Havanna] Der Gildenmeister Meeresfrucht(Stufe 2) Angriffskraft ¡æ [Immortal] Der Gildenmeister Biti
+< Der Basispunkt +2, Der Bonus mit Gildenmeister +1 >
+
+[Havanna]  Akumii(Stufe 2) Angriffskraft ¡æ [Duesenflitzer] Verteidiger Monsti
+< Der Basispunkt +2, Der Verteidigungsbonus +1 >
+
+[Immortal] Der Gildenmeister Biti(Stufe 2) Angriffskraft ¡æ [Duesenflitzer] Verteidiger Monsti
+< Der Basispunkt +2, Der Bonus mit Gildenmeister +1, Der Verteidigungsbonus +1 >
+
+[Havanna]  Akumii(Stufe 2) Angriffskraft ¡æ [Duesenflitzer] Verteidiger Monsti
+< Der Basispunkt +2, Der Verteidigungsbonus +1 >
+
+[Havanna] Der Gildenmeister Meeresfrucht(Stufe 2) Angriffskraft ¡æ [Bootylicious] Der Gildenmeister Melon
+< Der Basispunkt +2, Der Bonus mit Gildenmeister +1 >
+
+[Immortal]  Amunra(Stufe 2) Angriffskraft ¡æ [Havanna] Der Gildenmeister Meeresfrucht
+< Der Basispunkt +2 >
+
+[Havanna]  Akumii(Stufe 2) Angriffskraft ¡æ [Bootylicious]  Kuroe
+< Der Basispunkt +2 >
+
+[Immortal]  Amunra(Stufe 2) Angriffskraft ¡æ [Havanna]  Akumii
+< Der Basispunkt +2 >
+
+[Duesenflitzer] Der Gildenmeister Monsti(Stufe 2) Angriffskraft ¡æ [Havanna]  Vlad
+< Der Basispunkt +2, Der Bonus mit Gildenmeister +1 >
+
+[Havanna]  Akumii(Stufe 2) Angriffskraft ¡æ [Immortal] Der Gildenmeister Biti
+< Der Basispunkt +2 >
+
+[Duesenflitzer] Der Gildenmeister Monsti(Stufe 2) Angriffskraft ¡æ [Havanna]  Akumii
+< Der Basispunkt +2, Der Bonus mit Gildenmeister +1 >
+
+[Havanna]  Akumii(Stufe 2) Angriffskraft ¡æ [Duesenflitzer] Verteidiger Monsti
+< Der Basispunkt +2, Der Verteidigungsbonus +1 >
+
+[Havanna] Der Gildenmeister Meeresfrucht(Stufe 2) Angriffskraft ¡æ [Immortal] Der Gildenmeister Biti
+< Der Basispunkt +2, Der Bonus mit Gildenmeister +1 >
+
+[Havanna]  Vlad(Stufe 2) Angriffskraft ¡æ [Immortal]  Amunra
+< Der Basispunkt +2 >
+
+[Havanna] Der Gildenmeister Meeresfrucht(Stufe 2) Angriffskraft ¡æ [Immortal] Der Gildenmeister Biti
+< Der Basispunkt +2, Der Bonus mit Gildenmeister +1 >
+
+[Duesenflitzer] Der Gildenmeister Monsti(Stufe 2) Angriffskraft ¡æ [Havanna]  Vlad
+< Der Basispunkt +2, Der Bonus mit Gildenmeister +1 >
+
+[Duesenflitzer] Der Gildenmeister Monsti(Stufe 2) Angriffskraft ¡æ [Havanna]  Akumii
+< Der Basispunkt +2, Der Bonus mit Gildenmeister +1 >
+
+[Immortal] Der Gildenmeister Biti(Stufe 2) Angriffskraft ¡æ [Duesenflitzer] Verteidiger Monsti
+< Der Basispunkt +2, Der Bonus mit Gildenmeister +1, Der Verteidigungsbonus +1 >
+
+[Immortal]  Amunra(Stufe 2) Angriffskraft ¡æ [Havanna]  Akumii
+< Der Basispunkt +2 >
+
+[Duesenflitzer] Der Gildenmeister Monsti(Stufe 2) Angriffskraft ¡æ [Havanna]  Akumii
+< Der Basispunkt +2, Der Bonus mit Gildenmeister +1 >
+
+[Havanna]  Akumii(Stufe 2) Angriffskraft ¡æ [Immortal] Der Gildenmeister Biti
+< Der Basispunkt +2 >
+
+[Bootylicious]  Kuroe(Stufe 2) Angriffskraft ¡æ [Havanna]  Vlad
+< Der Basispunkt +2 >
+
+[Havanna] Der Gildenmeister Meeresfrucht(Stufe 2) Angriffskraft ¡æ [Immortal]  Amunra
+< Der Basispunkt +2, Der Bonus mit Gildenmeister +1 >
+
+[Havanna]  Vlad(Stufe 2) Angriffskraft ¡æ [Immortal]  Amunra
+< Der Basispunkt +2 >
+
+[Havanna]  Akumii(Stufe 2) Angriffskraft ¡æ [Duesenflitzer] Verteidiger Monsti
+< Der Basispunkt +2, Der Verteidigungsbonus +1 >
+
+[Bootylicious]  Kuroe(Stufe 2) Angriffskraft ¡æ [Havanna]  Vlad
+< Der Basispunkt +2 >
+
+[Havanna] Der Gildenmeister Meeresfrucht(Stufe 2) Angriffskraft ¡æ [Duesenflitzer] Verteidiger Monsti
+< Der Basispunkt +2, Der Bonus mit Gildenmeister +1, Der Verteidigungsbonus +1 >
+
+[Havanna]  Akumii(Stufe 2) Angriffskraft ¡æ [Bootylicious]  Kuroe
+< Der Basispunkt +2 >
+
+[Bootylicious]  Kuroe(Stufe 2) Angriffskraft ¡æ [Havanna]  Vlad
+< Der Basispunkt +2 >
+
+[Havanna]  Akumii(Stufe 2) Angriffskraft ¡æ [Duesenflitzer] Verteidiger Monsti
+< Der Basispunkt +2, Der Verteidigungsbonus +1 >
+
+[Havanna]  Vlad(Stufe 2) Angriffskraft ¡æ [Immortal] Der Gildenmeister Biti
+< Der Basispunkt +2 >
+
+[Bootylicious]  Kuroe(Stufe 2) Angriffskraft ¡æ [Havanna]  Vlad
+< Der Basispunkt +2 >
+
+[Havanna]  Akumii(Stufe 2) Angriffskraft ¡æ [Bootylicious]  Kuroe
+< Der Basispunkt +2 >
+
+[Havanna] Der Gildenmeister Meeresfrucht(Stufe 2) Angriffskraft ¡æ [Bootylicious]  Kuroe
+< Der Basispunkt +2, Der Bonus mit Gildenmeister +1 >
+
+[Havanna] Der Gildenmeister Meeresfrucht(Stufe 2) Angriffskraft ¡æ [Bootylicious]  Kuroe
+< Der Basispunkt +2, Der Bonus mit Gildenmeister +1 >
+
+[Havanna]  Vlad(Stufe 2) Angriffskraft ¡æ [Bootylicious]  Kuroe
+< Der Basispunkt +2 >
+
+[Bootylicious]  Kuroe(Stufe 2) Angriffskraft ¡æ [Havanna] Der Gildenmeister Meeresfrucht
+< Der Basispunkt +2, Der Wiederbelebungsbonus +1 >
+
+[Havanna]  Vlad(Stufe 2) Angriffskraft ¡æ [Bootylicious]  Kuroe
+< Der Basispunkt +2 >
+
